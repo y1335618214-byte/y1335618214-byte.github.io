@@ -8,8 +8,8 @@
 
 ## 项目实践
 
-- **[BioArk](https://bioark.netlify.app/)**：用于生物样本运输的智能方舟；国家级大创项目负责人。将物联网、温控与环境监测结合，项目网站展示样本运输及数据管理流程。
-- **[MedFix](https://med-fix.netlify.app/)**：医疗设备智能维修架数据管理系统；项目网站展示维修工单、设备档案、传感器、定位及权限审计模块。
+- **[BioArk](https://y1335618214-byte.github.io/projects/bioark/)**：用于生物样本运输的智能方舟；国家级大创项目负责人。将物联网、温控与环境监测结合，项目网站展示样本运输及数据管理流程。 [网页源码](./projects/bioark/) · [Netlify 演示](https://bioark.netlify.app/)
+- **[MedFix](https://y1335618214-byte.github.io/projects/medfix/)**：医疗设备智能维修架数据管理系统；项目网站展示维修工单、设备档案、传感器、定位及权限审计模块。 [网页源码](./projects/medfix/) · [Netlify 演示](https://med-fix.netlify.app/)
 - **姿姿有卫**：基于 OpenPose 的智能坐姿管理 APP，项目负责人，2025.10–2026.03。
 - **愈见贴“芯”**：基于 TRIZ 方法的创面辅助上药与防护方案，项目负责人，2024.12–至今。
 

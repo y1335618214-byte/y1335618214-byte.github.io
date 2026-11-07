@@ -1,0 +1,433 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>MedFix | 医疗设备智能维修架数据管理系统</title>
+  <link rel="stylesheet" href="./styles.css">
+</head>
+<body>
+  <div class="login-view" id="loginView">
+    <div class="login-visual" aria-hidden="true">
+      <div class="rack-hero">
+        <div class="rack-rail"></div>
+        <div class="rack-panel panel-a">
+          <span></span><span></span><span></span>
+        </div>
+        <div class="rack-panel panel-b">
+          <span></span><span></span>
+        </div>
+        <div class="rack-panel panel-c">
+          <span></span><span></span><span></span><span></span>
+        </div>
+        <div class="camera-eye"></div>
+        <div class="pulse-dot dot-a"></div>
+        <div class="pulse-dot dot-b"></div>
+        <div class="pulse-dot dot-c"></div>
+      </div>
+      <div class="login-metrics">
+        <div>
+          <strong>142</strong>
+          <span>在线设备</span>
+        </div>
+        <div>
+          <strong>98.6%</strong>
+          <span>SLA 达成</span>
+        </div>
+        <div>
+          <strong>12</strong>
+          <span>今日巡检</span>
+        </div>
+      </div>
+    </div>
+
+    <main class="login-card" aria-labelledby="loginTitle">
+      <div class="brand-row">
+        <div class="brand-mark">MF</div>
+        <div>
+          <p class="eyebrow">MedFix</p>
+          <h1 id="loginTitle">智能维修架数据管理系统</h1>
+        </div>
+      </div>
+      <form id="loginForm" class="login-form">
+        <label>
+          <span>维修员工号</span>
+          <input id="accountInput" name="account" type="text" autocomplete="username" value="MF-8001">
+        </label>
+        <label>
+          <span>密码</span>
+          <input id="passwordInput" name="password" type="password" autocomplete="current-password" value="medfix">
+        </label>
+        <div class="form-row">
+          <label class="check">
+            <input type="checkbox" checked>
+            <span>保持登录</span>
+          </label>
+          <button type="button" class="text-button" id="fillDemo">填入演示账号</button>
+        </div>
+        <button class="primary-button" type="submit">
+          <i data-lucide="log-in"></i>
+          登录控制台
+        </button>
+      </form>
+      <div class="register-actions">
+        <button class="ghost-button full" type="button" id="openEngineerRegister"><i data-lucide="user-plus"></i>维修人员注册</button>
+        <button class="ghost-button full" type="button" id="openHospitalRegister"><i data-lucide="shield-check"></i>院方用户注册</button>
+      </div>
+      <div class="secure-line">
+        <i data-lucide="shield-check"></i>
+        <span>账号权限、设备数据、影像与定位记录均进入审计链路</span>
+      </div>
+    </main>
+  </div>
+
+  <div class="app-shell is-hidden" id="appShell">
+    <aside class="sidebar" aria-label="主导航">
+      <div class="side-brand">
+        <div class="brand-mark">MF</div>
+        <div>
+          <strong>MedFix</strong>
+          <span>Repair OS</span>
+        </div>
+      </div>
+
+      <nav class="nav-list">
+        <button class="nav-item active" data-view="overview"><i data-lucide="layout-dashboard"></i><span>总览</span></button>
+        <button class="nav-item" data-view="orders"><i data-lucide="clipboard-list"></i><span>维修工单</span></button>
+        <button class="nav-item" data-view="devices"><i data-lucide="stethoscope"></i><span>设备类别</span></button>
+        <button class="nav-item" data-view="records"><i data-lucide="file-clock"></i><span>维保记录</span></button>
+        <button class="nav-item" data-view="location"><i data-lucide="map-pinned"></i><span>定位</span></button>
+        <button class="nav-item" data-view="camera"><i data-lucide="cctv"></i><span>摄像头</span></button>
+        <button class="nav-item" data-view="sensors"><i data-lucide="activity"></i><span>传感器</span></button>
+        <button class="nav-item" data-view="users"><i data-lucide="users-round"></i><span>用户权限</span></button>
+      </nav>
+
+      <div class="side-status">
+        <div class="mini-ring" aria-hidden="true"><span>91</span></div>
+        <div>
+          <strong>维修架健康度</strong>
+          <p>传感器同步正常</p>
+        </div>
+      </div>
+    </aside>
+
+    <div class="main-shell">
+      <header class="topbar">
+        <div>
+          <p class="eyebrow">哈尔滨医科大学附属第二医院</p>
+          <h2 id="viewTitle">运营总览</h2>
+        </div>
+        <div class="top-actions">
+          <div class="global-search">
+            <i data-lucide="search"></i>
+            <input type="search" id="searchInput" placeholder="搜索设备、工单、维修员">
+          </div>
+          <button class="icon-button" type="button" id="createOrderButton" title="新建维修单" aria-label="新建维修单"><i data-lucide="plus"></i></button>
+          <button class="icon-button alert-button" type="button" id="alertCenterButton" title="告警中心" aria-label="告警中心">
+            <i data-lucide="bell"></i>
+            <span></span>
+          </button>
+          <button class="profile-button" type="button" id="logoutButton">
+            <span>燕</span>
+            <strong>燕政洁</strong>
+          </button>
+        </div>
+      </header>
+
+      <main class="content">
+        <section class="view active" id="overview">
+          <div class="kpi-grid" id="kpiGrid"></div>
+
+          <div class="dashboard-grid">
+            <section class="panel rack-panel-card">
+              <div class="panel-head">
+                <div>
+                  <p class="eyebrow">Smart Rack</p>
+                  <h3>维修架状态</h3>
+                </div>
+                <span class="status-pill good">在线</span>
+              </div>
+              <div class="rack-monitor">
+                <div class="rack-frame">
+                  <div class="rack-zone zone-top" data-sensor="顶层器械消毒区">
+                    <span>顶层消毒区</span>
+                    <b>UV 72%</b>
+                  </div>
+                  <div class="rack-zone zone-left" data-sensor="左侧工具墙">
+                    <span>工具墙</span>
+                    <b>RFID 43</b>
+                  </div>
+                  <div class="rack-zone zone-right" data-sensor="右侧检测舱">
+                    <span>检测舱</span>
+                    <b>28.4°C</b>
+                  </div>
+                  <div class="rack-zone zone-bottom" data-sensor="底部电源与电池">
+                    <span>电源仓</span>
+                    <b>91%</b>
+                  </div>
+                  <div class="rack-camera">
+                    <i data-lucide="camera"></i>
+                  </div>
+                </div>
+                <div class="rack-readouts" id="rackReadouts"></div>
+              </div>
+            </section>
+
+            <section class="panel">
+              <div class="panel-head">
+                <div>
+                  <p class="eyebrow">Telemetry</p>
+                  <h3>传感器趋势</h3>
+                </div>
+                <div class="segmented">
+                  <button class="active" type="button" data-chart="temperature">温度</button>
+                  <button type="button" data-chart="vibration">振动</button>
+                  <button type="button" data-chart="load">载重</button>
+                </div>
+              </div>
+              <canvas id="sensorChart" height="210"></canvas>
+              <div class="sensor-strip" id="sensorStrip"></div>
+            </section>
+
+            <section class="panel wide">
+              <div class="panel-head">
+                <div>
+                  <p class="eyebrow">Dispatch</p>
+                  <h3>维修队列</h3>
+                </div>
+                <div class="table-tools">
+                  <button class="ghost-button" type="button" id="filterOrdersButton"><i data-lucide="sliders-horizontal"></i>筛选</button>
+                  <button class="ghost-button" type="button" id="exportOrdersButton"><i data-lucide="download"></i>导出</button>
+                </div>
+              </div>
+              <div class="table-wrap">
+                <table>
+                  <thead>
+                    <tr>
+                      <th>工单</th>
+                      <th>设备</th>
+                      <th>位置</th>
+                      <th>维修员</th>
+                      <th>状态</th>
+                      <th>SLA</th>
+                    </tr>
+                  </thead>
+                  <tbody id="workOrderBody"></tbody>
+                </table>
+              </div>
+            </section>
+
+            <section class="panel">
+              <div class="panel-head">
+                <div>
+                  <p class="eyebrow">Risk</p>
+                  <h3>实时告警</h3>
+                </div>
+                <button class="icon-button small" type="button" title="静音" aria-label="静音"><i data-lucide="volume-x"></i></button>
+              </div>
+              <div class="alert-list" id="alertList"></div>
+            </section>
+          </div>
+        </section>
+
+        <section class="view" id="orders">
+          <div class="section-grid two">
+            <section class="panel wide">
+              <div class="panel-head">
+                <div>
+                  <p class="eyebrow">Work Orders</p>
+                  <h3>工单调度中心</h3>
+                </div>
+                <button class="primary-button compact" type="button" id="createOrderInline"><i data-lucide="plus"></i>创建工单</button>
+              </div>
+              <div class="order-board" id="orderBoard"></div>
+            </section>
+            <section class="panel">
+              <div class="panel-head">
+                <div>
+                  <p class="eyebrow">AI Assist</p>
+                  <h3>智能诊断建议</h3>
+                </div>
+              </div>
+              <div class="diagnosis-box">
+                <strong>输液泵 IP-2093 压力异常</strong>
+                <p>结合近 7 日报警频率、泵门传感器抖动和更换记录，建议优先检查压力传感器排线与泵门锁扣磨损。</p>
+                <div class="confidence">
+                  <div>
+                    <span>置信度</span>
+                    <b>86%</b>
+                  </div>
+                  <div class="confidence-meter"><span></span></div>
+                </div>
+                <button class="ghost-button full" type="button" id="openSopButton"><i data-lucide="book-open-check"></i>打开 SOP</button>
+              </div>
+            </section>
+          </div>
+        </section>
+
+        <section class="view" id="devices">
+          <section class="panel">
+            <div class="panel-head">
+              <div>
+                <p class="eyebrow">Asset Taxonomy</p>
+                <h3>医疗设备类别与资产状态</h3>
+              </div>
+              <button class="ghost-button" type="button" id="categoryManageButton"><i data-lucide="tag"></i>类别维护</button>
+            </div>
+            <div class="device-grid" id="deviceGrid"></div>
+          </section>
+        </section>
+
+        <section class="view" id="records">
+          <div class="section-grid two">
+            <section class="panel wide">
+              <div class="panel-head">
+                <div>
+                  <p class="eyebrow">Maintenance</p>
+                  <h3>维保记录时间线</h3>
+                </div>
+                <button class="ghost-button" type="button" id="scanRecordButton"><i data-lucide="scan-line"></i>扫码入库</button>
+              </div>
+              <div class="timeline" id="recordTimeline"></div>
+            </section>
+            <section class="panel">
+              <div class="panel-head">
+                <div>
+                  <p class="eyebrow">Evidence</p>
+                  <h3>凭证与合规</h3>
+                </div>
+              </div>
+              <div class="evidence-list">
+                <div><i data-lucide="file-check-2"></i><span>校准证书</span><strong>36 份</strong></div>
+                <div><i data-lucide="image"></i><span>现场照片</span><strong>219 张</strong></div>
+                <div><i data-lucide="video"></i><span>维修影像</span><strong>48 段</strong></div>
+                <div><i data-lucide="signature"></i><span>电子签名</span><strong>126 条</strong></div>
+              </div>
+            </section>
+          </div>
+        </section>
+
+        <section class="view" id="location">
+          <div class="section-grid location-layout">
+            <section class="panel wide">
+              <div class="panel-head">
+                <div>
+                  <p class="eyebrow">Location</p>
+                  <h3>维修架与设备定位</h3>
+                </div>
+                <div class="segmented">
+                  <button class="active" type="button">院区</button>
+                  <button type="button">楼层</button>
+                  <button type="button">路线</button>
+                </div>
+              </div>
+              <div class="facility-map">
+                <div class="map-zone mz-a">急诊</div>
+                <div class="map-zone mz-b">ICU</div>
+                <div class="map-zone mz-c">设备科</div>
+                <div class="map-zone mz-d">检验科</div>
+                <div class="map-path"></div>
+                <button class="map-marker marker-rack" type="button" title="智能维修架 MF-R02"><i data-lucide="wrench"></i></button>
+                <button class="map-marker marker-device" type="button" title="待修呼吸机 VM-3108"><i data-lucide="cross"></i></button>
+                <button class="map-marker marker-user" type="button" title="维修员燕政洁"><i data-lucide="user-round"></i></button>
+              </div>
+            </section>
+            <section class="panel">
+              <div class="panel-head">
+                <div>
+                  <p class="eyebrow">Route</p>
+                  <h3>最近任务路线</h3>
+                </div>
+              </div>
+              <div class="route-list">
+                <div><span>1</span><p>8 号楼设备科取维修架</p><strong>0 m</strong></div>
+                <div><span>2</span><p>ICU 北区呼吸机维修</p><strong>380 m</strong></div>
+                <div><span>3</span><p>检验科血气分析仪复检</p><strong>610 m</strong></div>
+              </div>
+            </section>
+          </div>
+        </section>
+
+        <section class="view" id="camera">
+          <section class="panel">
+            <div class="panel-head">
+              <div>
+                <p class="eyebrow">Video</p>
+                <h3>摄像头与现场留痕</h3>
+              </div>
+              <button class="ghost-button" type="button" id="archiveVideoButton"><i data-lucide="archive"></i>影像归档</button>
+            </div>
+            <div class="camera-grid" id="cameraGrid"></div>
+          </section>
+        </section>
+
+        <section class="view" id="sensors">
+          <div class="section-grid two">
+            <section class="panel wide">
+              <div class="panel-head">
+                <div>
+                  <p class="eyebrow">Sensors</p>
+                  <h3>维修架各部位传感器</h3>
+                </div>
+                <button class="ghost-button" type="button" id="mqttButton"><i data-lucide="radio"></i>MQTT 在线</button>
+              </div>
+              <div class="sensor-matrix" id="sensorMatrix"></div>
+            </section>
+            <section class="panel">
+              <div class="panel-head">
+                <div>
+                  <p class="eyebrow">Rules</p>
+                  <h3>阈值策略</h3>
+                </div>
+              </div>
+              <div class="rule-list">
+                <label><span>检测舱温度上限</span><input type="range" min="25" max="45" value="35"><b>35°C</b></label>
+                <label><span>工具墙 RFID 漏检</span><input type="range" min="1" max="10" value="3"><b>3 件</b></label>
+                <label><span>底部振动峰值</span><input type="range" min="1" max="8" value="5"><b>5 mm/s</b></label>
+              </div>
+            </section>
+          </div>
+        </section>
+
+        <section class="view" id="users">
+          <div class="section-grid two">
+            <section class="panel wide">
+              <div class="panel-head">
+                <div>
+                  <p class="eyebrow">Users</p>
+                  <h3>维修员与用户信息</h3>
+                </div>
+                <button class="primary-button compact" type="button" id="addUserButton"><i data-lucide="user-plus"></i>新增用户</button>
+              </div>
+              <div class="user-list" id="userList"></div>
+            </section>
+            <section class="panel">
+              <div class="panel-head">
+                <div>
+                  <p class="eyebrow">Access</p>
+                  <h3>权限策略</h3>
+                </div>
+              </div>
+              <div class="access-list">
+                <label><input type="checkbox" checked><span>维修员可上传照片与视频</span></label>
+                <label><input type="checkbox" checked><span>主管审批高风险设备返场</span></label>
+                <label><input type="checkbox" checked><span>院方用户仅查看本院设备</span></label>
+                <label><input type="checkbox"><span>第三方厂商临时登录</span></label>
+              </div>
+            </section>
+          </div>
+        </section>
+      </main>
+    </div>
+  </div>
+
+  <div class="modal-root is-hidden" id="modalRoot" role="dialog" aria-modal="true" aria-labelledby="modalTitle">
+    <div class="modal-scrim" data-close-modal></div>
+    <section class="modal-card" id="modalCard" tabindex="-1"></section>
+  </div>
+
+  <div class="toast is-hidden" id="toast" role="status" aria-live="polite"></div>
+
+  <script src="./app.js"></script>
+</body>
+</html>

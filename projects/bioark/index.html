@@ -1,0 +1,357 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>BioArk 智能样本运输数据管理系统</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <div class="app-shell">
+      <aside class="sidebar" aria-label="主导航">
+        <a class="brand" href="#overview" aria-label="BioArk 首页">
+          <span class="brand-mark">BA</span>
+          <span>
+            <strong>BioArk</strong>
+            <small>Sample Transit Cloud</small>
+          </span>
+        </a>
+
+        <nav class="nav-list">
+          <a class="nav-item active" href="#overview">
+            <i data-lucide="layout-dashboard"></i>
+            <span>实时总览</span>
+          </a>
+          <a class="nav-item" href="#fleet">
+            <i data-lucide="package-check"></i>
+            <span>运输箱</span>
+          </a>
+          <a class="nav-item" href="#mission">
+            <i data-lucide="route"></i>
+            <span>运输任务</span>
+          </a>
+          <a class="nav-item" href="#samples">
+            <i data-lucide="test-tube-2"></i>
+            <span>样本数据</span>
+          </a>
+          <a class="nav-item" href="#alerts">
+            <i data-lucide="shield-alert"></i>
+            <span>告警审计</span>
+          </a>
+          <a class="nav-item" href="#users">
+            <i data-lucide="users-round"></i>
+            <span>用户权限</span>
+          </a>
+        </nav>
+
+        <div class="sidebar-status" aria-label="系统状态">
+          <span class="pulse"></span>
+          <span>全链路监测在线</span>
+        </div>
+      </aside>
+
+      <main class="workspace">
+        <header class="topbar">
+          <div class="topbar-copy">
+            <p class="eyebrow">BioArk Transport Intelligence</p>
+            <h1 class="hero-title">
+              <span class="hero-brand">BioArk</span>
+              <span class="hero-subtitle">—您的智能方舟</span>
+            </h1>
+          </div>
+          <div class="topbar-actions">
+            <label class="search-field" for="globalSearch">
+              <i data-lucide="search"></i>
+              <input id="globalSearch" type="search" placeholder="搜索箱体、样本、任务或用户" />
+            </label>
+            <button class="icon-button" id="refreshButton" type="button" title="刷新实时数据" aria-label="刷新实时数据">
+              <i data-lucide="refresh-cw"></i>
+            </button>
+            <button class="icon-button alert-button" type="button" title="告警中心" aria-label="告警中心">
+              <i data-lucide="bell"></i>
+              <span>3</span>
+            </button>
+            <div class="profile-chip" aria-label="当前用户">
+              <span>YZ</span>
+              <div>
+                <strong>燕政洁</strong>
+                <small>质量负责人</small>
+              </div>
+            </div>
+          </div>
+        </header>
+
+        <section class="command-band" id="overview" aria-labelledby="overviewTitle">
+          <div class="command-copy">
+            <span class="section-kicker">实时控制台</span>
+            <h2 id="overviewTitle">BioArk 生物样本运输态势</h2>
+            <p>
+              汇总运输箱状态、样本温区、定位轨迹、交接签收、异常审计与用户操作记录，适合实验室、物流中心和临床接收点共同使用。
+            </p>
+            <div class="command-actions">
+              <button class="primary-action" type="button">
+                <i data-lucide="file-down"></i>
+                <span>导出批次报告</span>
+              </button>
+              <button class="secondary-action" type="button">
+                <i data-lucide="lock-keyhole"></i>
+                <span>远程锁箱</span>
+              </button>
+            </div>
+          </div>
+          <figure class="product-visual">
+            <img src="assets/bioark-smart-box.png" alt="BioArk 智能生物样本运输箱" />
+          </figure>
+          <div class="snapshot-grid" aria-label="关键指标">
+            <article class="metric-card">
+              <span>在线运输箱</span>
+              <strong id="onlineCount">24</strong>
+              <small>较昨日 +6</small>
+            </article>
+            <article class="metric-card">
+              <span>温区合规率</span>
+              <strong id="complianceRate">98.7%</strong>
+              <small>近 24 小时</small>
+            </article>
+            <article class="metric-card">
+              <span>在途样本</span>
+              <strong>1,284</strong>
+              <small>7 个城市</small>
+            </article>
+            <article class="metric-card warning">
+              <span>需处理告警</span>
+              <strong>3</strong>
+              <small>最高 P1</small>
+            </article>
+          </div>
+        </section>
+
+        <section class="dashboard-grid" aria-label="实时数据面板">
+          <article class="panel telemetry-panel">
+            <div class="panel-heading">
+              <div>
+                <span class="section-kicker">Telemetry</span>
+                <h2>环境趋势</h2>
+              </div>
+              <div class="segmented-control" role="group" aria-label="时间范围">
+                <button class="active" type="button" data-range="6h">6h</button>
+                <button type="button" data-range="12h">12h</button>
+                <button type="button" data-range="24h">24h</button>
+              </div>
+            </div>
+            <canvas id="telemetryChart" width="900" height="320" aria-label="温湿度趋势图"></canvas>
+            <div class="legend-row">
+              <span><i class="legend-dot temp"></i>温度 °C</span>
+              <span><i class="legend-dot humidity"></i>湿度 %RH</span>
+              <span><i class="legend-dot shock"></i>震动事件</span>
+            </div>
+          </article>
+
+          <article class="panel focus-panel">
+            <div class="panel-heading">
+              <div>
+                <span class="section-kicker">Selected Box</span>
+                <h2 id="selectedBoxName">BA-TX-0287</h2>
+              </div>
+              <span class="status-badge good" id="selectedStatus">运输中</span>
+            </div>
+            <dl class="sensor-grid">
+              <div>
+                <dt>当前温度</dt>
+                <dd id="selectedTemp">3.8°C</dd>
+              </div>
+              <div>
+                <dt>湿度</dt>
+                <dd id="selectedHumidity">42%</dd>
+              </div>
+              <div>
+                <dt>电量</dt>
+                <dd id="selectedBattery">86%</dd>
+              </div>
+              <div>
+                <dt>门锁</dt>
+                <dd id="selectedLock">已锁定</dd>
+              </div>
+              <div>
+                <dt>温区</dt>
+                <dd id="selectedRange">2-8°C</dd>
+              </div>
+              <div>
+                <dt>定位</dt>
+                <dd id="selectedLocation">G60 沪昆高速</dd>
+              </div>
+            </dl>
+            <div class="quick-actions" aria-label="箱体控制">
+              <button type="button">
+                <i data-lucide="satellite"></i>
+                <span>定位追踪</span>
+              </button>
+              <button type="button">
+                <i data-lucide="thermometer-sun"></i>
+                <span>校准传感器</span>
+              </button>
+              <button type="button">
+                <i data-lucide="badge-check"></i>
+                <span>生成审计链</span>
+              </button>
+            </div>
+          </article>
+        </section>
+
+        <section class="split-grid" id="fleet" aria-label="运输箱管理">
+          <article class="panel fleet-panel">
+            <div class="panel-heading">
+              <div>
+                <span class="section-kicker">Fleet</span>
+                <h2>运输箱状态</h2>
+              </div>
+              <span class="soft-label">GPS / 传感器 / 电池</span>
+            </div>
+            <div class="box-list" id="boxList"></div>
+          </article>
+
+          <article class="panel map-panel" id="mission">
+            <div class="panel-heading">
+              <div>
+                <span class="section-kicker">Route</span>
+                <h2>运输任务与定位</h2>
+              </div>
+              <button class="icon-button compact" type="button" title="全屏地图" aria-label="全屏地图">
+                <i data-lucide="maximize-2"></i>
+              </button>
+            </div>
+            <div class="route-map" aria-label="长三角运输定位示意图">
+              <div class="route-line"></div>
+              <button class="map-pin active" style="left: 19%; top: 62%" type="button" aria-label="上海">
+                <span></span>
+                <strong>上海</strong>
+              </button>
+              <button class="map-pin" style="left: 41%; top: 42%" type="button" aria-label="苏州">
+                <span></span>
+                <strong>苏州</strong>
+              </button>
+              <button class="map-pin risk" style="left: 62%; top: 56%" type="button" aria-label="无锡">
+                <span></span>
+                <strong>无锡</strong>
+              </button>
+              <button class="map-pin" style="left: 78%; top: 31%" type="button" aria-label="南京">
+                <span></span>
+                <strong>南京</strong>
+              </button>
+            </div>
+            <ol class="timeline">
+              <li class="done">
+                <strong>取样入箱</strong>
+                <span>上海华山样本中心 · 09:10</span>
+              </li>
+              <li class="done">
+                <strong>电子封签</strong>
+                <span>链路签名 #A91F · 09:18</span>
+              </li>
+              <li class="active">
+                <strong>在途监测</strong>
+                <span id="routeStatus">G60 沪昆高速 · 每 30 秒回传</span>
+              </li>
+              <li>
+                <strong>接收复核</strong>
+                <span>南京临床研究仓 · 预计 14:40</span>
+              </li>
+            </ol>
+          </article>
+        </section>
+
+        <section class="data-grid" id="samples" aria-label="样本与告警数据">
+          <article class="panel table-panel">
+            <div class="panel-heading">
+              <div>
+                <span class="section-kicker">Samples</span>
+                <h2>样本批次</h2>
+              </div>
+              <button class="secondary-action slim" type="button">
+                <i data-lucide="plus"></i>
+                <span>新增批次</span>
+              </button>
+            </div>
+            <div class="table-wrap">
+              <table>
+                <thead>
+                  <tr>
+                    <th>样本编号</th>
+                    <th>类型</th>
+                    <th>温区</th>
+                    <th>箱体</th>
+                    <th>交接状态</th>
+                    <th>负责人</th>
+                  </tr>
+                </thead>
+                <tbody id="sampleTable"></tbody>
+              </table>
+            </div>
+          </article>
+
+          <article class="panel alerts-panel" id="alerts">
+            <div class="panel-heading">
+              <div>
+                <span class="section-kicker">Audit</span>
+                <h2>告警与事件</h2>
+              </div>
+              <span class="status-badge warn">3 待处理</span>
+            </div>
+            <div class="event-stream" id="eventStream"></div>
+          </article>
+        </section>
+
+        <section class="user-grid" id="users" aria-label="用户权限管理">
+          <article class="panel user-panel">
+            <div class="panel-heading">
+              <div>
+                <span class="section-kicker">Access</span>
+                <h2>用户与角色</h2>
+              </div>
+              <button class="secondary-action slim" type="button">
+                <i data-lucide="user-plus"></i>
+                <span>邀请用户</span>
+              </button>
+            </div>
+            <div class="role-list" id="roleList"></div>
+          </article>
+
+          <article class="panel compliance-panel">
+            <div class="panel-heading">
+              <div>
+                <span class="section-kicker">Compliance</span>
+                <h2>合规与完整性</h2>
+              </div>
+              <span class="soft-label">GxP / 21 CFR Part 11</span>
+            </div>
+            <div class="compliance-list">
+              <div>
+                <i data-lucide="fingerprint"></i>
+                <strong>双因子签名</strong>
+                <span>关键操作需二次确认与电子签名。</span>
+              </div>
+              <div>
+                <i data-lucide="file-lock-2"></i>
+                <strong>不可篡改日志</strong>
+                <span>温湿度、开箱、定位、交接全量留痕。</span>
+              </div>
+              <div>
+                <i data-lucide="database-backup"></i>
+                <strong>数据备份</strong>
+                <span>云端与本地缓存双写，断网后自动补传。</span>
+              </div>
+              <div>
+                <i data-lucide="shield-check"></i>
+                <strong>权限隔离</strong>
+                <span>按实验室、物流、接收方与审计方分域授权。</span>
+              </div>
+            </div>
+          </article>
+        </section>
+      </main>
+    </div>
+
+    <script src="https://unpkg.com/lucide@latest/dist/umd/lucide.min.js"></script>
+    <script src="script.js"></script>
+  </body>
+</html>
