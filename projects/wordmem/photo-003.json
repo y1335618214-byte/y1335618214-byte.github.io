@@ -1,0 +1,538 @@
+{
+  "id": "photo-003",
+  "name": "手写词表 · 第 3 批",
+  "order": "每列从上到下，列从左到右",
+  "words": [
+    {
+      "en": "faculty",
+      "zh": "n. 能力；官能；全体教员；院系",
+      "group": "能力与认知",
+      "memory": "faculty 可指天赋能力，也可指学校全体教员，不是所有行业的全体雇员。",
+      "note": "faculty 可指天赋能力，也可指学校全体教员，不是所有行业的全体雇员。",
+      "column": 1,
+      "position": 1
+    },
+    {
+      "en": "donate",
+      "zh": "v. 捐赠；捐献",
+      "group": "捐助与援助",
+      "memory": "donate money to a charity：把钱捐给慈善机构。",
+      "note": "donate money to a charity：把钱捐给慈善机构。",
+      "column": 1,
+      "position": 2
+    },
+    {
+      "en": "contribute",
+      "zh": "v. 捐助；贡献；促成；投稿",
+      "group": "捐助与援助",
+      "memory": "contribute to：向……贡献，也可表示促成某种结果。",
+      "note": "contribute to：向……贡献，也可表示促成某种结果。",
+      "column": 1,
+      "position": 3
+    },
+    {
+      "en": "dynamics",
+      "zh": "n. 动力学；动态关系；作用机制",
+      "group": "动力与刺激",
+      "memory": "group dynamics 是群体互动关系；“动力、动机”常用 motivation，不能一概替换。",
+      "note": "group dynamics 是群体互动关系；“动力、动机”常用 motivation，不能一概替换。",
+      "column": 1,
+      "position": 4
+    },
+    {
+      "en": "incentive",
+      "zh": "n. 激励；刺激；诱因",
+      "group": "动力与刺激",
+      "memory": "奖金是努力工作的 incentive：让你愿意去做的诱因。",
+      "note": "奖金是努力工作的 incentive：让你愿意去做的诱因。",
+      "column": 1,
+      "position": 5
+    },
+    {
+      "en": "stimulus",
+      "zh": "n. 刺激；刺激物；促进因素",
+      "group": "动力与刺激",
+      "memory": "单数 stimulus，复数 stimuli；想象刺激引起反应。",
+      "note": "单数 stimulus，复数 stimuli；想象刺激引起反应。",
+      "column": 1,
+      "position": 6
+    },
+    {
+      "en": "mortality",
+      "zh": "n. 死亡率；必死性",
+      "group": "危险与伤害",
+      "memory": "mortality rate 死亡率；和 morality（道德）区分。",
+      "note": "mortality rate 死亡率；和 morality（道德）区分。",
+      "column": 1,
+      "position": 7
+    },
+    {
+      "en": "peripheral",
+      "zh": "adj. 外围的；次要的",
+      "group": "位置与重要性",
+      "memory": "画面联想：中心以外的周边，所以也引申为次要的。",
+      "note": "画面联想：中心以外的周边，所以也引申为次要的。",
+      "column": 1,
+      "position": 8
+    },
+    {
+      "en": "minor",
+      "zh": "adj. 较小的；次要的；轻微的",
+      "group": "位置与重要性",
+      "memory": "minor problem 小问题；不必译成极小的，极小常用 tiny。",
+      "note": "minor problem 小问题；不必译成极小的，极小常用 tiny。",
+      "column": 1,
+      "position": 9
+    },
+    {
+      "en": "vicinity",
+      "zh": "n. 附近；邻近地区",
+      "group": "位置与重要性",
+      "memory": "in the vicinity of：在……附近，想象家周围的一圈。",
+      "note": "in the vicinity of：在……附近，想象家周围的一圈。",
+      "column": 1,
+      "position": 10
+    },
+    {
+      "en": "threaten",
+      "zh": "v. 威胁；恐吓；危及",
+      "group": "危险与伤害",
+      "memory": "threat 威胁→threaten 发出威胁；拼写是 threat＋en。",
+      "note": "threat 威胁→threaten 发出威胁；拼写是 threat＋en。",
+      "column": 1,
+      "position": 11
+    },
+    {
+      "en": "jeopardize",
+      "zh": "v. 危及；使处于危险中",
+      "group": "危险与伤害",
+      "memory": "jeopardize your health：把健康置于危险中。",
+      "note": "jeopardize your health：把健康置于危险中。",
+      "column": 1,
+      "position": 12
+    },
+    {
+      "en": "hazard",
+      "zh": "n. 危险；危害 v. 冒险提出",
+      "group": "危险与伤害",
+      "memory": "a fire hazard 火灾隐患；此处主要记名词危险因素。",
+      "note": "a fire hazard 火灾隐患；此处主要记名词危险因素。",
+      "column": 1,
+      "position": 13
+    },
+    {
+      "en": "germ",
+      "zh": "n. 病菌；微生物；萌芽；起源",
+      "group": "微生物与治疗",
+      "memory": "germs on your hands 手上的病菌；也可比喻想法的萌芽。",
+      "note": "germs on your hands 手上的病菌；也可比喻想法的萌芽。",
+      "column": 1,
+      "position": 14
+    },
+    {
+      "en": "microbe",
+      "zh": "n. 微生物",
+      "group": "微生物与治疗",
+      "memory": "micro- 表示微小，microbe 微生物；不只包括细菌。",
+      "note": "micro- 表示微小，microbe 微生物；不只包括细菌。",
+      "column": 2,
+      "position": 15
+    },
+    {
+      "en": "be subject to",
+      "zh": "phr. 受……支配；受……影响；须遵守；可能遭受",
+      "group": "条件与可能",
+      "memory": "subject to change 可能变更；to 后接名词或动名词。",
+      "note": "subject to change 可能变更；to 后接名词或动名词。",
+      "column": 2,
+      "position": 16
+    },
+    {
+      "en": "be liable to",
+      "zh": "phr. 易于；很可能；有义务",
+      "group": "条件与可能",
+      "memory": "be liable to make mistakes 容易犯错；也可表示依法负有责任。",
+      "note": "be liable to make mistakes 容易犯错；也可表示依法负有责任。",
+      "column": 2,
+      "position": 17
+    },
+    {
+      "en": "innate",
+      "zh": "adj. 天生的；固有的",
+      "group": "天生与内置",
+      "memory": "innate ability 天生能力；不表示真诚，真诚可用 sincere。",
+      "note": "innate ability 天生能力；不表示真诚，真诚可用 sincere。",
+      "column": 2,
+      "position": 18
+    },
+    {
+      "en": "built-in",
+      "zh": "adj. 内置的；固有的",
+      "group": "天生与内置",
+      "memory": "built 是 build 的过去分词；built-in camera 内置摄像头。",
+      "note": "built 是 build 的过去分词；built-in camera 内置摄像头。",
+      "column": 2,
+      "position": 19
+    },
+    {
+      "en": "inborn",
+      "zh": "adj. 天生的；先天的",
+      "group": "天生与内置",
+      "memory": "in＋born：出生时就有，与 innate 近义。",
+      "note": "in＋born：出生时就有，与 innate 近义。",
+      "column": 2,
+      "position": 20
+    },
+    {
+      "en": "formation",
+      "zh": "n. 形成；构成；形成物；队形",
+      "group": "形成与整合",
+      "memory": "form 形成→formation 形成过程或形成的结构；不只是形态。",
+      "note": "form 形成→formation 形成过程或形成的结构；不只是形态。",
+      "column": 2,
+      "position": 21
+    },
+    {
+      "en": "therapy",
+      "zh": "n. 治疗；疗法",
+      "group": "微生物与治疗",
+      "memory": "physical therapy 物理治疗；表示治疗方法或过程。",
+      "note": "physical therapy 物理治疗；表示治疗方法或过程。",
+      "column": 2,
+      "position": 22
+    },
+    {
+      "en": "initial",
+      "zh": "adj. 最初的；开始的 n. 首字母",
+      "group": "开始与停止",
+      "memory": "initial stage 初始阶段；联想到 initiate 开始实施。",
+      "note": "initial stage 初始阶段；联想到 initiate 开始实施。",
+      "column": 2,
+      "position": 23
+    },
+    {
+      "en": "confidential",
+      "zh": "adj. 机密的；保密的",
+      "group": "保密与隐藏",
+      "memory": "confidential information 机密信息：只给获准的人看。",
+      "note": "confidential information 机密信息：只给获准的人看。",
+      "column": 2,
+      "position": 24
+    },
+    {
+      "en": "undisclosed",
+      "zh": "adj. 未公开的；未透露的",
+      "group": "保密与隐藏",
+      "memory": "un- 不＋disclosed 已披露：尚未公开。",
+      "note": "un- 不＋disclosed 已披露：尚未公开。",
+      "column": 2,
+      "position": 25
+    },
+    {
+      "en": "hidden",
+      "zh": "adj. 隐藏的；隐秘的",
+      "group": "保密与隐藏",
+      "memory": "hide 藏→hidden 被藏起来的；记双 d。",
+      "note": "hide 藏→hidden 被藏起来的；记双 d。",
+      "column": 2,
+      "position": 26
+    },
+    {
+      "en": "cognitive",
+      "zh": "adj. 认知的；认识的",
+      "group": "能力与认知",
+      "memory": "cognitive skills 是记忆、理解等认知能力，范围比 mental 更具体。",
+      "note": "cognitive skills 是记忆、理解等认知能力，范围比 mental 更具体。",
+      "column": 2,
+      "position": 27
+    },
+    {
+      "en": "mental",
+      "zh": "adj. 心理的；精神的；智力的",
+      "group": "能力与认知",
+      "memory": "mental health 心理健康；mental arithmetic 心算。",
+      "note": "mental health 心理健康；mental arithmetic 心算。",
+      "column": 2,
+      "position": 28
+    },
+    {
+      "en": "comply with",
+      "zh": "phr.v. 遵守；依从",
+      "group": "服从与协调",
+      "memory": "comply with rules 遵守规则；不要漏掉 with。",
+      "note": "comply with rules 遵守规则；不要漏掉 with。",
+      "column": 2,
+      "position": 29
+    },
+    {
+      "en": "obey",
+      "zh": "v. 遵守；服从；听从",
+      "group": "服从与协调",
+      "memory": "obey rules：直接接规则，不需要 with。",
+      "note": "obey rules：直接接规则，不需要 with。",
+      "column": 3,
+      "position": 30
+    },
+    {
+      "en": "consult",
+      "zh": "v. 咨询；请教；查阅；商量",
+      "group": "服从与协调",
+      "memory": "consult a doctor 咨询医生；consult a dictionary 查词典。",
+      "note": "consult a doctor 咨询医生；consult a dictionary 查词典。",
+      "column": 3,
+      "position": 31
+    },
+    {
+      "en": "superior",
+      "zh": "adj. 更好的；上级的 n. 上级",
+      "group": "位置与重要性",
+      "memory": "superior to 比……好；用 to，不用 than。",
+      "note": "superior to 比……好；用 to，不用 than。",
+      "column": 3,
+      "position": 32
+    },
+    {
+      "en": "coordinate",
+      "zh": "v. 协调；使配合 n. 坐标",
+      "group": "服从与协调",
+      "memory": "co- 联合，联想让各部分一起配合；co-ordinate 也是有效拼写。",
+      "note": "co- 联合，联想让各部分一起配合；co-ordinate 也是有效拼写。",
+      "column": 3,
+      "position": 33
+    },
+    {
+      "en": "harmonize",
+      "zh": "v. 使协调；使一致；和谐",
+      "group": "服从与协调",
+      "memory": "harmony 和谐→harmonize 使和谐，像不同乐器合奏。",
+      "note": "harmony 和谐→harmonize 使和谐，像不同乐器合奏。",
+      "column": 3,
+      "position": 34
+    },
+    {
+      "en": "cue",
+      "zh": "n. 提示；信号 v. 给……提示",
+      "group": "提示与线索",
+      "memory": "演员看到 cue 就开始行动：提示行动的信号。",
+      "note": "演员看到 cue 就开始行动：提示行动的信号。",
+      "column": 3,
+      "position": 35
+    },
+    {
+      "en": "hint",
+      "zh": "n./v. 暗示；提示；少量迹象",
+      "group": "提示与线索",
+      "memory": "give a hint 给一点提示；不像直接说出答案。",
+      "note": "give a hint 给一点提示；不像直接说出答案。",
+      "column": 3,
+      "position": 36
+    },
+    {
+      "en": "clue",
+      "zh": "n. 线索；提示",
+      "group": "提示与线索",
+      "memory": "侦探靠 clue 破案：用于推断真相的线索；不是一般的解释。",
+      "note": "侦探靠 clue 破案：用于推断真相的线索；不是一般的解释。",
+      "column": 3,
+      "position": 37
+    },
+    {
+      "en": "signal",
+      "zh": "n. 信号 v. 发信号；示意",
+      "group": "提示与线索",
+      "memory": "traffic signal 交通信号，看到信号就作出反应。",
+      "note": "traffic signal 交通信号，看到信号就作出反应。",
+      "column": 3,
+      "position": 38
+    },
+    {
+      "en": "forsake",
+      "zh": "v. 抛弃；离弃；放弃",
+      "group": "放弃与消失",
+      "memory": "forsake an old habit 放弃旧习惯；过去式 forsook，过去分词 forsaken。",
+      "note": "forsake an old habit 放弃旧习惯；过去式 forsook，过去分词 forsaken。",
+      "column": 3,
+      "position": 39
+    },
+    {
+      "en": "derelict",
+      "zh": "adj. 废弃的；破败的；失职的",
+      "group": "放弃与消失",
+      "memory": "a derelict building 废弃破败的楼；强调无人照管。",
+      "note": "a derelict building 废弃破败的楼；强调无人照管。",
+      "column": 3,
+      "position": 40
+    },
+    {
+      "en": "halt",
+      "zh": "v./n. 停止；停顿",
+      "group": "开始与停止",
+      "memory": "come to a halt 停下来；想象突然停车。",
+      "note": "come to a halt 停下来；想象突然停车。",
+      "column": 3,
+      "position": 41
+    },
+    {
+      "en": "fragile",
+      "zh": "adj. 易碎的；脆弱的",
+      "group": "脆弱与受损",
+      "memory": "玻璃包装上的 FRAGILE：小心易碎；中间是 g，不是 j。",
+      "note": "玻璃包装上的 FRAGILE：小心易碎；中间是 g，不是 j。",
+      "column": 3,
+      "position": 42
+    },
+    {
+      "en": "vulnerable",
+      "zh": "adj. 易受伤害的；脆弱的",
+      "group": "脆弱与受损",
+      "memory": "vulnerable to attack 容易受攻击；强调容易受到外界伤害。",
+      "note": "vulnerable to attack 容易受攻击；强调容易受到外界伤害。",
+      "column": 3,
+      "position": 43
+    },
+    {
+      "en": "retain",
+      "zh": "v. 保留；保持；记住",
+      "group": "保持与稳定",
+      "memory": "retain information 把信息留在脑中；按划改后的 retain 录入。",
+      "note": "retain information 把信息留在脑中；按划改后的 retain 录入。",
+      "column": 4,
+      "position": 44
+    },
+    {
+      "en": "vanish",
+      "zh": "v. 消失；突然不见",
+      "group": "放弃与消失",
+      "memory": "想象魔术把东西变没：vanish；通常不直接接被消失的物体。",
+      "note": "想象魔术把东西变没：vanish；通常不直接接被消失的物体。",
+      "column": 4,
+      "position": 45
+    },
+    {
+      "en": "erode",
+      "zh": "v. 侵蚀；逐渐削弱",
+      "group": "侵蚀与锈蚀",
+      "memory": "水慢慢冲走土壤是 erode，也可指信心逐渐被削弱。",
+      "note": "水慢慢冲走土壤是 erode，也可指信心逐渐被削弱。",
+      "column": 4,
+      "position": 46
+    },
+    {
+      "en": "rust",
+      "zh": "n. 铁锈 v. 生锈；锈蚀",
+      "group": "侵蚀与锈蚀",
+      "memory": "铁遇水生锈：rust；一般损坏不都叫 rust。",
+      "note": "铁遇水生锈：rust；一般损坏不都叫 rust。",
+      "column": 4,
+      "position": 47
+    },
+    {
+      "en": "induce",
+      "zh": "v. 引起；诱使；促成",
+      "group": "动力与刺激",
+      "memory": "induce sleep 引起睡意；induce someone to do 诱使某人做。",
+      "note": "induce sleep 引起睡意；induce someone to do 诱使某人做。",
+      "column": 4,
+      "position": 48
+    },
+    {
+      "en": "stable",
+      "zh": "adj. 稳定的；稳固的 n. 马厩",
+      "group": "保持与稳定",
+      "memory": "stable condition 稳定状况：不容易发生剧烈变化。",
+      "note": "stable condition 稳定状况：不容易发生剧烈变化。",
+      "column": 4,
+      "position": 49
+    },
+    {
+      "en": "constant",
+      "zh": "adj. 持续的；恒定的 n. 常数",
+      "group": "保持与稳定",
+      "memory": "constant temperature 恒温：数值保持不变。",
+      "note": "constant temperature 恒温：数值保持不变。",
+      "column": 4,
+      "position": 50
+    },
+    {
+      "en": "integrate",
+      "zh": "v. 整合；使成为整体；融入",
+      "group": "形成与整合",
+      "memory": "integrate A into B：把 A 融入 B，像拼图合成整体。",
+      "note": "integrate A into B：把 A 融入 B，像拼图合成整体。",
+      "column": 4,
+      "position": 51
+    },
+    {
+      "en": "grant",
+      "zh": "v. 授予；准许 n. 拨款；补助金",
+      "group": "捐助与援助",
+      "memory": "a research grant 研究拨款；grant permission 准许。",
+      "note": "a research grant 研究拨款；grant permission 准许。",
+      "column": 4,
+      "position": 52
+    },
+    {
+      "en": "accumulate",
+      "zh": "v. 积累；积聚",
+      "group": "形成与整合",
+      "memory": "每天一点，慢慢堆成一大堆：accumulate；记双 c。",
+      "note": "每天一点，慢慢堆成一大堆：accumulate；记双 c。",
+      "column": 4,
+      "position": 53
+    },
+    {
+      "en": "addictive",
+      "zh": "adj. 使人上瘾的",
+      "group": "依赖与反应",
+      "memory": "addictive 描述东西使人上瘾；addicted 描述人已上瘾。",
+      "note": "addictive 描述东西使人上瘾；addicted 描述人已上瘾。",
+      "column": 4,
+      "position": 54
+    },
+    {
+      "en": "adversity",
+      "zh": "n. 逆境；不幸；困境",
+      "group": "危险与伤害",
+      "memory": "面对逆风联想 face adversity 面对逆境。",
+      "note": "面对逆风联想 face adversity 面对逆境。",
+      "column": 4,
+      "position": 55
+    },
+    {
+      "en": "aggression",
+      "zh": "n. 侵略；攻击行为；敌意",
+      "group": "危险与伤害",
+      "memory": "拼写记双 g、双 s：aggression；不是 aggession。",
+      "note": "拼写记双 g、双 s：aggression；不是 aggession。",
+      "column": 4,
+      "position": 56
+    },
+    {
+      "en": "agreeable",
+      "zh": "adj. 令人愉快的；可接受的；同意的",
+      "group": "偏好与接受",
+      "memory": "agree＋able；agreeable weather 宜人的天气。",
+      "note": "agree＋able；agreeable weather 宜人的天气。",
+      "column": 4,
+      "position": 57
+    },
+    {
+      "en": "aid",
+      "zh": "n./v. 帮助；援助",
+      "group": "捐助与援助",
+      "memory": "first aid 急救；用熟悉短语记住 aid 是援助。",
+      "note": "first aid 急救；用熟悉短语记住 aid 是援助。",
+      "column": 4,
+      "position": 58
+    },
+    {
+      "en": "allergic",
+      "zh": "adj. 过敏的；对……反感的",
+      "group": "依赖与反应",
+      "memory": "allergic to pollen 对花粉过敏；固定搭配 to。",
+      "note": "allergic to pollen 对花粉过敏；固定搭配 to。",
+      "column": 4,
+      "position": 59
+    }
+  ]
+}

@@ -1,0 +1,889 @@
+{
+  "id": "photo-006",
+  "name": "手写词表 · 第 6 批",
+  "order": "前三列纵向，最右栏先左小列再右小列",
+  "words": [
+    {
+      "en": "moisture",
+      "zh": "n. 水分；潮气",
+      "group": "水分",
+      "memory": "moist 潮湿的→moisture 水分。",
+      "note": "moist 潮湿的→moisture 水分。",
+      "column": 1,
+      "position": 1
+    },
+    {
+      "en": "humidity",
+      "zh": "n. 湿度；潮湿",
+      "group": "水分",
+      "memory": "humidity 强调空气的湿度；moisture 是水分本身。",
+      "note": "humidity 强调空气的湿度；moisture 是水分本身。",
+      "column": 1,
+      "position": 2
+    },
+    {
+      "en": "monitor",
+      "zh": "v. 监测；监督 n. 监视器",
+      "group": "监控",
+      "memory": "monitor progress：持续跟踪进展。",
+      "note": "monitor progress：持续跟踪进展。",
+      "column": 1,
+      "position": 3
+    },
+    {
+      "en": "surveillance",
+      "zh": "n. 监视；监控",
+      "group": "监控",
+      "memory": "视频监控 video surveillance；记双 l。",
+      "note": "视频监控 video surveillance；记双 l。",
+      "column": 1,
+      "position": 4
+    },
+    {
+      "en": "motif",
+      "zh": "n. 主题；反复出现的图案",
+      "group": "主题",
+      "memory": "织物上反复出现的小图案是 motif。",
+      "note": "织物上反复出现的小图案是 motif。",
+      "column": 1,
+      "position": 5
+    },
+    {
+      "en": "mould",
+      "zh": "n. 模具；霉菌 v. 塑造",
+      "group": "塑造",
+      "memory": "把材料放进模具 mould；英式拼写，美式 mold。",
+      "note": "把材料放进模具 mould；英式拼写，美式 mold。",
+      "column": 1,
+      "position": 6
+    },
+    {
+      "en": "nocturnal",
+      "zh": "adj. 夜间的；夜行性的",
+      "group": "时间",
+      "memory": "猫头鹰是 nocturnal animal，夜里活动。",
+      "note": "猫头鹰是 nocturnal animal，夜里活动。",
+      "column": 1,
+      "position": 7
+    },
+    {
+      "en": "norm",
+      "zh": "n. 规范；常态；标准",
+      "group": "规则",
+      "memory": "the norm 通常情况；社会规范 social norms。",
+      "note": "the norm 通常情况；社会规范 social norms。",
+      "column": 1,
+      "position": 8
+    },
+    {
+      "en": "regulation",
+      "zh": "n. 规章；管理；调节",
+      "group": "规则",
+      "memory": "regulate 管理→regulation 规章或调节过程。",
+      "note": "regulate 管理→regulation 规章或调节过程。",
+      "column": 1,
+      "position": 9
+    },
+    {
+      "en": "notoriety",
+      "zh": "n. 恶名；臭名昭著",
+      "group": "评价",
+      "memory": "notorious 臭名昭著的→notoriety，通常是坏名声。",
+      "note": "notorious 臭名昭著的→notoriety，通常是坏名声。",
+      "column": 1,
+      "position": 10
+    },
+    {
+      "en": "objective",
+      "zh": "n. 目标 adj. 客观的",
+      "group": "评价",
+      "memory": "名词是目标，形容词是客观；和 subjective 主观的对照。",
+      "note": "名词是目标，形容词是客观；和 subjective 主观的对照。",
+      "column": 1,
+      "position": 11
+    },
+    {
+      "en": "obligation",
+      "zh": "n. 义务；责任",
+      "group": "规则",
+      "memory": "有责任必须做：an obligation to help。",
+      "note": "有责任必须做：an obligation to help。",
+      "column": 1,
+      "position": 12
+    },
+    {
+      "en": "obscure",
+      "zh": "adj. 模糊的；鲜为人知的 v. 遮蔽",
+      "group": "清晰程度",
+      "memory": "云遮住月亮 obscure the moon；也可指不为人知。",
+      "note": "云遮住月亮 obscure the moon；也可指不为人知。",
+      "column": 1,
+      "position": 13
+    },
+    {
+      "en": "odd",
+      "zh": "adj. 奇怪的；奇数的",
+      "group": "评价",
+      "memory": "odd numbers 奇数；an odd sound 奇怪声音。",
+      "note": "odd numbers 奇数；an odd sound 奇怪声音。",
+      "column": 1,
+      "position": 14
+    },
+    {
+      "en": "odour",
+      "zh": "n. 气味",
+      "group": "感受",
+      "memory": "英式 odour，美式 odor；不一定总是臭味。",
+      "note": "英式 odour，美式 odor；不一定总是臭味。",
+      "column": 1,
+      "position": 15
+    },
+    {
+      "en": "offensive",
+      "zh": "adj. 冒犯的；令人不快的；进攻性的",
+      "group": "敌意",
+      "memory": "offensive remarks 冒犯的话；不是只有粗鲁这一个意思。",
+      "note": "offensive remarks 冒犯的话；不是只有粗鲁这一个意思。",
+      "column": 1,
+      "position": 16
+    },
+    {
+      "en": "hostile",
+      "zh": "adj. 敌对的；不友好的",
+      "group": "敌意",
+      "memory": "hostile attitude 敌对态度，和 friendly 对照。",
+      "note": "hostile attitude 敌对态度，和 friendly 对照。",
+      "column": 1,
+      "position": 17
+    },
+    {
+      "en": "authority",
+      "zh": "n. 权威；权力；当局",
+      "group": "权力",
+      "memory": "an authority on... 某领域的权威；authorities 常指当局。",
+      "note": "an authority on... 某领域的权威；authorities 常指当局。",
+      "column": 1,
+      "position": 18
+    },
+    {
+      "en": "optimum",
+      "zh": "adj. 最佳的 n. 最佳状态或值",
+      "group": "程度",
+      "memory": "optimum temperature 最适温度，不只是一般的好。",
+      "note": "optimum temperature 最适温度，不只是一般的好。",
+      "column": 1,
+      "position": 19
+    },
+    {
+      "en": "ordinary",
+      "zh": "adj. 普通的；平常的",
+      "group": "评价",
+      "memory": "an ordinary day 平常的一天；extraordinary 是非凡的。",
+      "note": "an ordinary day 平常的一天；extraordinary 是非凡的。",
+      "column": 1,
+      "position": 20
+    },
+    {
+      "en": "organ",
+      "zh": "n. 器官；机构；管风琴",
+      "group": "组织",
+      "memory": "心脏是 organ；也可指机构或管风琴。",
+      "note": "心脏是 organ；也可指机构或管风琴。",
+      "column": 1,
+      "position": 21
+    },
+    {
+      "en": "out of the question",
+      "zh": "phr. 不可能；不允许",
+      "group": "可能与意愿",
+      "memory": "带 the 表示不可能；out of question 是另一种表达，不要漏 the。",
+      "note": "带 the 表示不可能；out of question 是另一种表达，不要漏 the。",
+      "column": 2,
+      "position": 22
+    },
+    {
+      "en": "overtake",
+      "zh": "v. 超过；赶上",
+      "group": "超过",
+      "memory": "车从后面赶上并超车：overtake；过去式 overtook。",
+      "note": "车从后面赶上并超车：overtake；过去式 overtook。",
+      "column": 2,
+      "position": 23
+    },
+    {
+      "en": "surpass",
+      "zh": "v. 超过；胜过",
+      "group": "超过",
+      "memory": "surpass expectations 超出预期，常比能力或水平。",
+      "note": "surpass expectations 超出预期，常比能力或水平。",
+      "column": 2,
+      "position": 24
+    },
+    {
+      "en": "paralyse",
+      "zh": "v. 使瘫痪；使无法行动",
+      "group": "限制",
+      "memory": "交通完全瘫痪：paralyse traffic；美式 paralyze。",
+      "note": "交通完全瘫痪：paralyse traffic；美式 paralyze。",
+      "column": 2,
+      "position": 25
+    },
+    {
+      "en": "paramount",
+      "zh": "adj. 最重要的；至上的",
+      "group": "重要程度",
+      "memory": "of paramount importance 极其重要，优先于其他事。",
+      "note": "of paramount importance 极其重要，优先于其他事。",
+      "column": 2,
+      "position": 26
+    },
+    {
+      "en": "principal",
+      "zh": "adj. 主要的 n. 校长；本金",
+      "group": "重要程度",
+      "memory": "principal 主要的；principle 才是原则。",
+      "note": "principal 主要的；principle 才是原则。",
+      "column": 2,
+      "position": 27
+    },
+    {
+      "en": "repetitive",
+      "zh": "adj. 重复的；反复的",
+      "group": "重复",
+      "memory": "repeat 重复→repetitive 反复做同样事情的。",
+      "note": "repeat 重复→repetitive 反复做同样事情的。",
+      "column": 2,
+      "position": 28
+    },
+    {
+      "en": "persuade",
+      "zh": "v. 说服；劝服",
+      "group": "说服与称赞",
+      "memory": "persuade someone to do：说服某人做某事。",
+      "note": "persuade someone to do：说服某人做某事。",
+      "column": 2,
+      "position": 29
+    },
+    {
+      "en": "pessimistic",
+      "zh": "adj. 悲观的",
+      "group": "感受",
+      "memory": "pessimistic 悲观，与 optimistic 乐观对照。",
+      "note": "pessimistic 悲观，与 optimistic 乐观对照。",
+      "column": 2,
+      "position": 30
+    },
+    {
+      "en": "plagiarise",
+      "zh": "v. 抄袭；剽窃",
+      "group": "重复",
+      "memory": "把别人的作品当自己的：plagiarise；美式 plagiarize。",
+      "note": "把别人的作品当自己的：plagiarise；美式 plagiarize。",
+      "column": 2,
+      "position": 31
+    },
+    {
+      "en": "pot",
+      "zh": "n. 罐；锅；花盆 v. 把植物种入盆中",
+      "group": "器物",
+      "memory": "flower pot 是花盆；盆栽植物通常说 potted plant。",
+      "note": "flower pot 是花盆；盆栽植物通常说 potted plant。",
+      "column": 2,
+      "position": 32
+    },
+    {
+      "en": "pose",
+      "zh": "v. 造成；提出；摆姿势 n. 姿势",
+      "group": "行动",
+      "memory": "pose a threat 构成威胁；pose for a photo 摆姿势。",
+      "note": "pose a threat 构成威胁；pose for a photo 摆姿势。",
+      "column": 2,
+      "position": 33
+    },
+    {
+      "en": "portable",
+      "zh": "adj. 便携的；可携带的",
+      "group": "移动",
+      "memory": "portable charger 充电宝，能随身携带。",
+      "note": "portable charger 充电宝，能随身携带。",
+      "column": 2,
+      "position": 34
+    },
+    {
+      "en": "conveyable",
+      "zh": "adj. 可运输的；可传达的",
+      "group": "移动",
+      "memory": "convey 运送或传达＋able 可以：可运输或传达的。",
+      "note": "convey 运送或传达＋able 可以：可运输或传达的。",
+      "column": 2,
+      "position": 35
+    },
+    {
+      "en": "poverty",
+      "zh": "n. 贫穷；贫乏",
+      "group": "困境",
+      "memory": "live in poverty 生活贫困；和 wealth 财富对照。",
+      "note": "live in poverty 生活贫困；和 wealth 财富对照。",
+      "column": 2,
+      "position": 36
+    },
+    {
+      "en": "praise",
+      "zh": "v./n. 称赞；赞扬",
+      "group": "说服与称赞",
+      "memory": "praise someone for... 因某事表扬某人。",
+      "note": "praise someone for... 因某事表扬某人。",
+      "column": 2,
+      "position": 37
+    },
+    {
+      "en": "commend",
+      "zh": "v. 赞扬；推荐",
+      "group": "说服与称赞",
+      "memory": "commend someone for bravery 赞扬勇敢；比 praise 正式。",
+      "note": "commend someone for bravery 赞扬勇敢；比 praise 正式。",
+      "column": 2,
+      "position": 38
+    },
+    {
+      "en": "pressing",
+      "zh": "adj. 紧迫的；迫切的",
+      "group": "紧迫",
+      "memory": "press 压迫→pressing 像事情逼到眼前，急需处理。",
+      "note": "press 压迫→pressing 像事情逼到眼前，急需处理。",
+      "column": 2,
+      "position": 39
+    },
+    {
+      "en": "urgent",
+      "zh": "adj. 紧急的；急迫的",
+      "group": "紧迫",
+      "memory": "urgent request 急需处理的请求，与 pressing 一起记。",
+      "note": "urgent request 急需处理的请求，与 pressing 一起记。",
+      "column": 2,
+      "position": 40
+    },
+    {
+      "en": "prohibit",
+      "zh": "v. 禁止",
+      "group": "限制",
+      "memory": "prohibit someone from doing 禁止某人做某事。",
+      "note": "prohibit someone from doing 禁止某人做某事。",
+      "column": 2,
+      "position": 41
+    },
+    {
+      "en": "prolong",
+      "zh": "v. 延长",
+      "group": "时间",
+      "memory": "prolong a visit 延长访问时间；long 帮助联想长。",
+      "note": "prolong a visit 延长访问时间；long 帮助联想长。",
+      "column": 2,
+      "position": 42
+    },
+    {
+      "en": "prosper",
+      "zh": "v. 繁荣；兴旺；成功",
+      "group": "发展",
+      "memory": "prosperous 繁荣的来自 prosper；通常不直接接被繁荣的宾语。",
+      "note": "prosperous 繁荣的来自 prosper；通常不直接接被繁荣的宾语。",
+      "column": 2,
+      "position": 43
+    },
+    {
+      "en": "purify",
+      "zh": "v. 净化；提纯",
+      "group": "改善",
+      "memory": "pure 纯的→purify 使纯净，purify water 净水。",
+      "note": "pure 纯的→purify 使纯净，purify water 净水。",
+      "column": 3,
+      "position": 44
+    },
+    {
+      "en": "qualify",
+      "zh": "v. 取得资格；使合格；限定",
+      "group": "资格",
+      "memory": "qualify for the final 获得决赛资格；不是一定拿到证书。",
+      "note": "qualify for the final 获得决赛资格；不是一定拿到证书。",
+      "column": 3,
+      "position": 45
+    },
+    {
+      "en": "fulfill",
+      "zh": "v. 履行；实现；满足",
+      "group": "行动",
+      "memory": "fulfill a promise 履行承诺；英式也写 fulfil。",
+      "note": "fulfill a promise 履行承诺；英式也写 fulfil。",
+      "column": 3,
+      "position": 46
+    },
+    {
+      "en": "radical",
+      "zh": "adj. 根本的；彻底的；激进的",
+      "group": "程度",
+      "memory": "radical change 根本性改变，不只是微小调整。",
+      "note": "radical change 根本性改变，不只是微小调整。",
+      "column": 3,
+      "position": 47
+    },
+    {
+      "en": "utmost",
+      "zh": "adj. 最大的；极度的 n. 极限",
+      "group": "程度",
+      "memory": "do your utmost 尽最大努力。",
+      "note": "do your utmost 尽最大努力。",
+      "column": 3,
+      "position": 48
+    },
+    {
+      "en": "scope",
+      "zh": "n. 范围；领域；机会",
+      "group": "范围",
+      "memory": "scope of the study 研究范围；不把它单独记成视野。",
+      "note": "scope of the study 研究范围；不把它单独记成视野。",
+      "column": 3,
+      "position": 49
+    },
+    {
+      "en": "rare",
+      "zh": "adj. 稀有的；罕见的；半熟的",
+      "group": "程度",
+      "memory": "rare species 稀有物种；牛排 rare 是偏生的。",
+      "note": "rare species 稀有物种；牛排 rare 是偏生的。",
+      "column": 3,
+      "position": 50
+    },
+    {
+      "en": "recreation",
+      "zh": "n. 娱乐；消遣",
+      "group": "娱乐",
+      "memory": "放松时的活动 recreation；注意与 creation 创造区分。",
+      "note": "放松时的活动 recreation；注意与 creation 创造区分。",
+      "column": 3,
+      "position": 51
+    },
+    {
+      "en": "entertainment",
+      "zh": "n. 娱乐；娱乐活动",
+      "group": "娱乐",
+      "memory": "entertain 使人快乐→entertainment 娱乐。",
+      "note": "entertain 使人快乐→entertainment 娱乐。",
+      "column": 3,
+      "position": 52
+    },
+    {
+      "en": "rehearsal",
+      "zh": "n. 排练；预演",
+      "group": "娱乐",
+      "memory": "演出前 rehearsal，正式演出前先练一遍。",
+      "note": "演出前 rehearsal，正式演出前先练一遍。",
+      "column": 3,
+      "position": 53
+    },
+    {
+      "en": "reject",
+      "zh": "v. 拒绝接受；驳回；抛弃",
+      "group": "排除",
+      "memory": "reject an offer 拒绝提议，不接受它。",
+      "note": "reject an offer 拒绝提议，不接受它。",
+      "column": 3,
+      "position": 54
+    },
+    {
+      "en": "exclude",
+      "zh": "v. 排除；不包括",
+      "group": "排除",
+      "memory": "exclude someone from... 把某人排除在外；与 include 包括对照。",
+      "note": "exclude someone from... 把某人排除在外；与 include 包括对照。",
+      "column": 3,
+      "position": 55
+    },
+    {
+      "en": "relevant",
+      "zh": "adj. 相关的；切题的",
+      "group": "关系",
+      "memory": "relevant to 与……相关，记介词 to。",
+      "note": "relevant to 与……相关，记介词 to。",
+      "column": 3,
+      "position": 56
+    },
+    {
+      "en": "religious",
+      "zh": "adj. 宗教的；虔诚的",
+      "group": "宗教",
+      "memory": "religion 宗教→religious 宗教的。",
+      "note": "religion 宗教→religious 宗教的。",
+      "column": 3,
+      "position": 57
+    },
+    {
+      "en": "sacred",
+      "zh": "adj. 神圣的；不可侵犯的",
+      "group": "宗教",
+      "memory": "sacred place 圣地；不是普通的受尊敬就都叫 sacred。",
+      "note": "sacred place 圣地；不是普通的受尊敬就都叫 sacred。",
+      "column": 3,
+      "position": 58
+    },
+    {
+      "en": "reluctant",
+      "zh": "adj. 不情愿的；勉强的",
+      "group": "可能与意愿",
+      "memory": "reluctant to leave 不情愿离开，记搭配 to do。",
+      "note": "reluctant to leave 不情愿离开，记搭配 to do。",
+      "column": 3,
+      "position": 59
+    },
+    {
+      "en": "reproduce",
+      "zh": "v. 繁殖；复制；再现",
+      "group": "繁殖与重复",
+      "memory": "re- 再＋produce 产生：再产生，可指繁殖或复制。",
+      "note": "re- 再＋produce 产生：再产生，可指繁殖或复制。",
+      "column": 3,
+      "position": 60
+    },
+    {
+      "en": "breed",
+      "zh": "v. 繁殖；培育 n. 品种",
+      "group": "繁殖与重复",
+      "memory": "breed dogs 培育犬类；过去式 bred。",
+      "note": "breed dogs 培育犬类；过去式 bred。",
+      "column": 3,
+      "position": 61
+    },
+    {
+      "en": "revision",
+      "zh": "n. 修订；修订版；复习",
+      "group": "改善",
+      "memory": "revise 修订或复习→revision，不只是一处纠错。",
+      "note": "revise 修订或复习→revision，不只是一处纠错。",
+      "column": 3,
+      "position": 62
+    },
+    {
+      "en": "revive",
+      "zh": "v. 复苏；恢复；使苏醒",
+      "group": "改善",
+      "memory": "让枯萎植物重新活过来：revive a plant。",
+      "note": "让枯萎植物重新活过来：revive a plant。",
+      "column": 3,
+      "position": 63
+    },
+    {
+      "en": "renaissance",
+      "zh": "n. 文艺复兴；复兴",
+      "group": "发展",
+      "memory": "Renaissance 文艺复兴；引申为文化等重新繁荣。",
+      "note": "Renaissance 文艺复兴；引申为文化等重新繁荣。",
+      "column": 3,
+      "position": 64
+    },
+    {
+      "en": "ruin",
+      "zh": "v. 毁坏 n. 毁灭；废墟",
+      "group": "破坏",
+      "memory": "ruin a plan 毁掉计划；ruins 常指遗址或废墟。",
+      "note": "ruin a plan 毁掉计划；ruins 常指遗址或废墟。",
+      "column": 3,
+      "position": 65
+    },
+    {
+      "en": "scenic",
+      "zh": "adj. 风景优美的；舞台布景的",
+      "group": "景色",
+      "memory": "scenery 风景→scenic；a scenic route 风景优美的路线。",
+      "note": "scenery 风景→scenic；a scenic route 风景优美的路线。",
+      "column": 4,
+      "position": 66
+    },
+    {
+      "en": "skepticism",
+      "zh": "n. 怀疑；怀疑态度",
+      "group": "判断",
+      "memory": "skeptic 怀疑者→skepticism；英式常用 scepticism。",
+      "note": "skeptic 怀疑者→skepticism；英式常用 scepticism。",
+      "column": 4,
+      "position": 67
+    },
+    {
+      "en": "soar",
+      "zh": "v. 猛增；高飞；翱翔",
+      "group": "增长",
+      "memory": "价格像鸟一样飞高：prices soar。",
+      "note": "价格像鸟一样飞高：prices soar。",
+      "column": 4,
+      "position": 68
+    },
+    {
+      "en": "solely",
+      "zh": "adv. 仅仅；唯一地",
+      "group": "范围",
+      "memory": "sole 唯一的＋ly：solely，不能直接当形容词用。",
+      "note": "sole 唯一的＋ly：solely，不能直接当形容词用。",
+      "column": 4,
+      "position": 69
+    },
+    {
+      "en": "solicitor",
+      "zh": "n. 律师；事务律师",
+      "group": "职业",
+      "memory": "英国语境常指提供咨询、处理法律事务的 solicitor。",
+      "note": "英国语境常指提供咨询、处理法律事务的 solicitor。",
+      "column": 4,
+      "position": 70
+    },
+    {
+      "en": "steer",
+      "zh": "v. 驾驶；引导；操纵方向",
+      "group": "行动",
+      "memory": "steering wheel 方向盘，帮助记 steer 控制方向。",
+      "note": "steering wheel 方向盘，帮助记 steer 控制方向。",
+      "column": 4,
+      "position": 71
+    },
+    {
+      "en": "stimulate",
+      "zh": "v. 刺激；激励；促进",
+      "group": "增长",
+      "memory": "stimulus 刺激→stimulate 给予刺激；stimulate growth 促进增长。",
+      "note": "stimulus 刺激→stimulate 给予刺激；stimulate growth 促进增长。",
+      "column": 4,
+      "position": 72
+    },
+    {
+      "en": "stride",
+      "zh": "v. 大步走 n. 大步；进步",
+      "group": "移动",
+      "memory": "make strides 取得进步；stride 也是迈大步。",
+      "note": "make strides 取得进步；stride 也是迈大步。",
+      "column": 4,
+      "position": 73
+    },
+    {
+      "en": "succumb",
+      "zh": "v. 屈服；不再抵抗；死于",
+      "group": "屈服",
+      "memory": "succumb to pressure 屈服于压力；记双 c 和结尾 mb。",
+      "note": "succumb to pressure 屈服于压力；记双 c 和结尾 mb。",
+      "column": 4,
+      "position": 74
+    },
+    {
+      "en": "yield",
+      "zh": "v. 屈服；让步；产生 n. 产量",
+      "group": "屈服",
+      "memory": "yield to pressure 屈服；yield crops 产出作物。",
+      "note": "yield to pressure 屈服；yield crops 产出作物。",
+      "column": 4,
+      "position": 75
+    },
+    {
+      "en": "subdivide",
+      "zh": "v. 细分；再分",
+      "group": "范围",
+      "memory": "sub- 更小部分＋divide 分：把大块进一步细分。",
+      "note": "sub- 更小部分＋divide 分：把大块进一步细分。",
+      "column": 4,
+      "position": 76
+    },
+    {
+      "en": "subtle",
+      "zh": "adj. 微妙的；不易察觉的",
+      "group": "精细",
+      "memory": "subtle difference 微妙区别；拼写有 b，发音不读 b。",
+      "note": "subtle difference 微妙区别；拼写有 b，发音不读 b。",
+      "column": 4,
+      "position": 77
+    },
+    {
+      "en": "delicate",
+      "zh": "adj. 精巧的；脆弱的；微妙的",
+      "group": "精细",
+      "memory": "delicate glass 精巧易碎的玻璃；不只表示小巧。",
+      "note": "delicate glass 精巧易碎的玻璃；不只表示小巧。",
+      "column": 4,
+      "position": 78
+    },
+    {
+      "en": "substance",
+      "zh": "n. 物质；实质；内容",
+      "group": "器物",
+      "memory": "有形的物质或真正的内容：substance。",
+      "note": "有形的物质或真正的内容：substance。",
+      "column": 4,
+      "position": 79
+    },
+    {
+      "en": "sufficiency",
+      "zh": "n. 足够；充足",
+      "group": "范围",
+      "memory": "sufficient 足够的→sufficiency 充足；不是副词“足够地”。",
+      "note": "sufficient 足够的→sufficiency 充足；不是副词“足够地”。",
+      "column": 4,
+      "position": 80
+    },
+    {
+      "en": "supersede",
+      "zh": "v. 取代；替代",
+      "group": "改善",
+      "memory": "新系统取代旧系统：supersede；结尾是 sede，不是 cede。",
+      "note": "新系统取代旧系统：supersede；结尾是 sede，不是 cede。",
+      "column": 4,
+      "position": 81
+    },
+    {
+      "en": "suppress",
+      "zh": "v. 抑制；镇压；隐瞒",
+      "group": "限制",
+      "memory": "suppress a cough 忍住咳嗽；也可指压下消息不公开。",
+      "note": "suppress a cough 忍住咳嗽；也可指压下消息不公开。",
+      "column": 4,
+      "position": 82
+    },
+    {
+      "en": "supremacy",
+      "zh": "n. 至高地位；优势；霸权",
+      "group": "权力",
+      "memory": "supreme 最高的→supremacy 至高地位。",
+      "note": "supreme 最高的→supremacy 至高地位。",
+      "column": 4,
+      "position": 83
+    },
+    {
+      "en": "priority",
+      "zh": "n. 优先事项；优先权",
+      "group": "重要程度",
+      "memory": "top priority 第一优先事项，与 supremacy 的最高地位不同。",
+      "note": "top priority 第一优先事项，与 supremacy 的最高地位不同。",
+      "column": 4,
+      "position": 84
+    },
+    {
+      "en": "suspicious",
+      "zh": "adj. 怀疑的；可疑的",
+      "group": "判断",
+      "memory": "suspicious of 对……怀疑；suspicious behavior 可疑行为。",
+      "note": "suspicious of 对……怀疑；suspicious behavior 可疑行为。",
+      "column": 4,
+      "position": 85
+    },
+    {
+      "en": "symptom",
+      "zh": "n. 症状；征兆",
+      "group": "感受",
+      "memory": "a symptom of illness 疾病症状；记中间 mpt。",
+      "note": "a symptom of illness 疾病症状；记中间 mpt。",
+      "column": 4,
+      "position": 86
+    },
+    {
+      "en": "tension",
+      "zh": "n. 紧张；紧张关系；张力",
+      "group": "感受",
+      "memory": "拉紧的绳子有 tension，紧张气氛也用它。",
+      "note": "拉紧的绳子有 tension，紧张气氛也用它。",
+      "column": 4,
+      "position": 87
+    },
+    {
+      "en": "toll",
+      "zh": "n. 通行费；伤亡人数；钟声 v. 敲钟",
+      "group": "代价",
+      "memory": "take a toll on 对……造成损害；road toll 道路通行费。",
+      "note": "take a toll on 对……造成损害；road toll 道路通行费。",
+      "column": 4,
+      "position": 88
+    },
+    {
+      "en": "transcend",
+      "zh": "v. 超越；超出",
+      "group": "超过",
+      "memory": "transcend boundaries 超越界限，记词中 sc。",
+      "note": "transcend boundaries 超越界限，记词中 sc。",
+      "column": 5,
+      "position": 89
+    },
+    {
+      "en": "transit",
+      "zh": "n. 运输；中转；过境 v. 通过",
+      "group": "移动",
+      "memory": "in transit 在运输途中；不只是一瞬间经过。",
+      "note": "in transit 在运输途中；不只是一瞬间经过。",
+      "column": 5,
+      "position": 90
+    },
+    {
+      "en": "tremendous",
+      "zh": "adj. 巨大的；极大的；极好的",
+      "group": "程度",
+      "memory": "tremendous effort 巨大的努力。",
+      "note": "tremendous effort 巨大的努力。",
+      "column": 5,
+      "position": 91
+    },
+    {
+      "en": "trigger",
+      "zh": "v. 引发；触发 n. 扳机；诱因",
+      "group": "增长",
+      "memory": "像扣动扳机一样引发事件：trigger a reaction。",
+      "note": "像扣动扳机一样引发事件：trigger a reaction。",
+      "column": 5,
+      "position": 92
+    },
+    {
+      "en": "tropical",
+      "zh": "adj. 热带的",
+      "group": "景色",
+      "memory": "tropics 热带→tropical；tropical fruit 热带水果。",
+      "note": "tropics 热带→tropical；tropical fruit 热带水果。",
+      "column": 5,
+      "position": 93
+    },
+    {
+      "en": "unbiased",
+      "zh": "adj. 公正的；无偏见的",
+      "group": "判断",
+      "memory": "un- 无＋biased 有偏见：公正；划掉的草稿不另录。",
+      "note": "un- 无＋biased 有偏见：公正；划掉的草稿不另录。",
+      "column": 5,
+      "position": 94
+    },
+    {
+      "en": "consistent",
+      "zh": "adj. 一贯的；一致的",
+      "group": "关系",
+      "memory": "consistent with 与……一致；也可指表现始终稳定。",
+      "note": "consistent with 与……一致；也可指表现始终稳定。",
+      "column": 5,
+      "position": 95
+    },
+    {
+      "en": "versatile",
+      "zh": "adj. 多才多艺的；多用途的",
+      "group": "资格",
+      "memory": "versatile tool 多用途工具；versatile actor 多才多艺的演员。",
+      "note": "versatile tool 多用途工具；versatile actor 多才多艺的演员。",
+      "column": 5,
+      "position": 96
+    },
+    {
+      "en": "violent",
+      "zh": "adj. 暴力的；猛烈的",
+      "group": "破坏",
+      "memory": "violent storm 猛烈风暴；不只是人的暴力行为。",
+      "note": "violent storm 猛烈风暴；不只是人的暴力行为。",
+      "column": 5,
+      "position": 97
+    },
+    {
+      "en": "fierce",
+      "zh": "adj. 凶猛的；激烈的",
+      "group": "破坏",
+      "memory": "fierce competition 激烈竞争；fierce animal 凶猛动物。",
+      "note": "fierce competition 激烈竞争；fierce animal 凶猛动物。",
+      "column": 5,
+      "position": 98
+    }
+  ]
+}

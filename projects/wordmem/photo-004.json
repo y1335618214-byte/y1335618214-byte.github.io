@@ -1,0 +1,628 @@
+{
+  "id": "photo-004",
+  "name": "手写词表 · 第 4 批",
+  "order": "每列从上到下，列从左到右",
+  "words": [
+    {
+      "en": "irritate",
+      "zh": "v. 使恼怒；刺激；使不适",
+      "group": "情绪与刺激",
+      "memory": "irritate the skin 刺激皮肤；也可指让人烦躁。",
+      "note": "irritate the skin 刺激皮肤；也可指让人烦躁。",
+      "column": 1,
+      "position": 1
+    },
+    {
+      "en": "altitude",
+      "zh": "n. 海拔；高度",
+      "group": "高度与容量",
+      "memory": "altitude 高度，attitude 态度：注意 l 和 t 的区别。",
+      "note": "altitude 高度，attitude 态度：注意 l 和 t 的区别。",
+      "column": 1,
+      "position": 2
+    },
+    {
+      "en": "utilization",
+      "zh": "n. 利用；使用",
+      "group": "利用与服务",
+      "memory": "utilize 利用→utilization 利用；use 的较正式表达。",
+      "note": "utilize 利用→utilization 利用；use 的较正式表达。",
+      "column": 1,
+      "position": 3
+    },
+    {
+      "en": "approve",
+      "zh": "v. 批准；赞成",
+      "group": "同意与授予",
+      "memory": "approve a plan 批准计划；approve of 表示赞同。",
+      "note": "approve a plan 批准计划；approve of 表示赞同。",
+      "column": 1,
+      "position": 4
+    },
+    {
+      "en": "assign",
+      "zh": "v. 分配；指派；指定",
+      "group": "分配与任命",
+      "memory": "assign a task to someone：把任务分配给某人。",
+      "note": "assign a task to someone：把任务分配给某人。",
+      "column": 1,
+      "position": 5
+    },
+    {
+      "en": "allocate",
+      "zh": "v. 分配；划拨",
+      "group": "分配与任命",
+      "memory": "allocate money 分配资金；常分配时间、钱或资源。",
+      "note": "allocate money 分配资金；常分配时间、钱或资源。",
+      "column": 1,
+      "position": 6
+    },
+    {
+      "en": "association",
+      "zh": "n. 协会；联系；联想",
+      "group": "组织与联系",
+      "memory": "associate 联系→association 联系或协会。",
+      "note": "associate 联系→association 联系或协会。",
+      "column": 1,
+      "position": 7
+    },
+    {
+      "en": "union",
+      "zh": "n. 联合；联盟；工会",
+      "group": "组织与联系",
+      "memory": "联想多个部分 union 成为整体；trade union 工会。",
+      "note": "联想多个部分 union 成为整体；trade union 工会。",
+      "column": 1,
+      "position": 8
+    },
+    {
+      "en": "authority",
+      "zh": "n. 权力；权威；当局",
+      "group": "组织与联系",
+      "memory": "authorities 常指当局；authority 也指有权作决定。",
+      "note": "authorities 常指当局；authority 也指有权作决定。",
+      "column": 1,
+      "position": 9
+    },
+    {
+      "en": "be consistent with",
+      "zh": "phr. 与……一致；与……相符",
+      "group": "一致与兼容",
+      "memory": "陈述与事实相符：be consistent with the facts。",
+      "note": "陈述与事实相符：be consistent with the facts。",
+      "column": 1,
+      "position": 10
+    },
+    {
+      "en": "compatible",
+      "zh": "adj. 兼容的；能共存的；合得来的",
+      "group": "一致与兼容",
+      "memory": "compatible with 与……兼容；手机和配件能一起用。",
+      "note": "compatible with 与……兼容；手机和配件能一起用。",
+      "column": 1,
+      "position": 11
+    },
+    {
+      "en": "tolerate",
+      "zh": "v. 容忍；忍受；容许",
+      "group": "容忍与负担",
+      "memory": "tolerate noise 忍受噪声；不是所有“允许”都用它。",
+      "note": "tolerate noise 忍受噪声；不是所有“允许”都用它。",
+      "column": 1,
+      "position": 12
+    },
+    {
+      "en": "blight",
+      "zh": "n. 枯萎病；祸害 v. 毁坏；使枯萎",
+      "group": "灾害与破坏",
+      "memory": "植物枯萎的画面：blight；也可指摧毁希望。",
+      "note": "植物枯萎的画面：blight；也可指摧毁希望。",
+      "column": 1,
+      "position": 13
+    },
+    {
+      "en": "bungle",
+      "zh": "v. 笨拙地做；搞砸 n. 搞砸的事",
+      "group": "灾害与破坏",
+      "memory": "bungle a task：手忙脚乱，把任务搞砸。",
+      "note": "bungle a task：手忙脚乱，把任务搞砸。",
+      "column": 1,
+      "position": 14
+    },
+    {
+      "en": "burden",
+      "zh": "n. 负担 v. 使负重；使担忧",
+      "group": "容忍与负担",
+      "memory": "想象肩上很重的包：a heavy burden。",
+      "note": "想象肩上很重的包：a heavy burden。",
+      "column": 1,
+      "position": 15
+    },
+    {
+      "en": "calamity",
+      "zh": "n. 灾难；灾祸",
+      "group": "灾害与破坏",
+      "memory": "calamity 与 disaster 同组记，都指严重灾祸。",
+      "note": "calamity 与 disaster 同组记，都指严重灾祸。",
+      "column": 1,
+      "position": 16
+    },
+    {
+      "en": "disaster",
+      "zh": "n. 灾难；灾祸；惨败",
+      "group": "灾害与破坏",
+      "memory": "disaster 灾难→disastrous 灾难性的。",
+      "note": "disaster 灾难→disastrous 灾难性的。",
+      "column": 2,
+      "position": 17
+    },
+    {
+      "en": "capacity",
+      "zh": "n. 容量；容纳能力；能力",
+      "group": "高度与容量",
+      "memory": "a bottle’s capacity 瓶子容量；也可指工作能力。",
+      "note": "a bottle’s capacity 瓶子容量；也可指工作能力。",
+      "column": 2,
+      "position": 18
+    },
+    {
+      "en": "catastrophic",
+      "zh": "adj. 灾难性的；极其严重的",
+      "group": "灾害与破坏",
+      "memory": "catastrophe 大灾难→catastrophic 灾难性的。",
+      "note": "catastrophe 大灾难→catastrophic 灾难性的。",
+      "column": 2,
+      "position": 19
+    },
+    {
+      "en": "disastrous",
+      "zh": "adj. 灾难性的；极糟的",
+      "group": "灾害与破坏",
+      "memory": "disaster 变为 disastrous，记中间是 astr，不是 aster。",
+      "note": "disaster 变为 disastrous，记中间是 astr，不是 aster。",
+      "column": 2,
+      "position": 20
+    },
+    {
+      "en": "cater",
+      "zh": "v. 提供餐饮；满足需求",
+      "group": "利用与服务",
+      "memory": "cater for 提供所需；cater to 迎合，常搭配介词。",
+      "note": "cater for 提供所需；cater to 迎合，常搭配介词。",
+      "column": 2,
+      "position": 21
+    },
+    {
+      "en": "serve",
+      "zh": "v. 服务；供应；起作用；满足需要",
+      "group": "利用与服务",
+      "memory": "serve food 端上食物；serve a purpose 发挥作用。",
+      "note": "serve food 端上食物；serve a purpose 发挥作用。",
+      "column": 2,
+      "position": 22
+    },
+    {
+      "en": "certify",
+      "zh": "v. 证明；认证",
+      "group": "核实与确信",
+      "memory": "certificate 证书→certify 正式证明或认证。",
+      "note": "certificate 证书→certify 正式证明或认证。",
+      "column": 2,
+      "position": 23
+    },
+    {
+      "en": "verify",
+      "zh": "v. 核实；查证；验证",
+      "group": "核实与确信",
+      "memory": "verify information：检查信息是不是真的。",
+      "note": "verify information：检查信息是不是真的。",
+      "column": 2,
+      "position": 24
+    },
+    {
+      "en": "civic",
+      "zh": "adj. 公民的；市民的；城市的",
+      "group": "公共与政治",
+      "memory": "civic duty 公民义务；强调公民生活与事务。",
+      "note": "civic duty 公民义务；强调公民生活与事务。",
+      "column": 2,
+      "position": 25
+    },
+    {
+      "en": "municipal",
+      "zh": "adj. 市政的；市立的；市的",
+      "group": "公共与政治",
+      "memory": "municipal government 市政府；强调城市行政管理。",
+      "note": "municipal government 市政府；强调城市行政管理。",
+      "column": 2,
+      "position": 26
+    },
+    {
+      "en": "remark",
+      "zh": "n. 言论；评论 v. 评论；说起",
+      "group": "表达与对比",
+      "memory": "make a remark 发表一句评论；remark on 评论……。",
+      "note": "make a remark 发表一句评论；remark on 评论……。",
+      "column": 2,
+      "position": 27
+    },
+    {
+      "en": "commitment",
+      "zh": "n. 承诺；投入；义务",
+      "group": "承诺与交往",
+      "memory": "commitment to learning：对学习的投入；也可指承诺。",
+      "note": "commitment to learning：对学习的投入；也可指承诺。",
+      "column": 2,
+      "position": 28
+    },
+    {
+      "en": "engagement",
+      "zh": "n. 订婚；约会；约定；参与",
+      "group": "承诺与交往",
+      "memory": "engagement ring 订婚戒指；也可指参与程度。",
+      "note": "engagement ring 订婚戒指；也可指参与程度。",
+      "column": 2,
+      "position": 29
+    },
+    {
+      "en": "communal",
+      "zh": "adj. 公共的；共有的；社区的",
+      "group": "公共与政治",
+      "memory": "communal kitchen 共用厨房，强调共同使用。",
+      "note": "communal kitchen 共用厨房，强调共同使用。",
+      "column": 2,
+      "position": 30
+    },
+    {
+      "en": "commute",
+      "zh": "v. 通勤；减轻刑罚 n. 通勤路程",
+      "group": "出行与推迟",
+      "memory": "每天往返家与单位是 commute；不是所有往返都叫通勤。",
+      "note": "每天往返家与单位是 commute；不是所有往返都叫通勤。",
+      "column": 2,
+      "position": 31
+    },
+    {
+      "en": "contrast",
+      "zh": "n. 对比；差异 v. 对比；形成对照",
+      "group": "表达与对比",
+      "memory": "in contrast 相比之下；常用作名词或动词，不按普通形容词记。",
+      "note": "in contrast 相比之下；常用作名词或动词，不按普通形容词记。",
+      "column": 2,
+      "position": 32
+    },
+    {
+      "en": "conceal",
+      "zh": "v. 隐藏；隐瞒",
+      "group": "隐藏与公开",
+      "memory": "conceal the truth 隐瞒真相；与 disclose 公开对照记。",
+      "note": "conceal the truth 隐瞒真相；与 disclose 公开对照记。",
+      "column": 2,
+      "position": 33
+    },
+    {
+      "en": "concentrate",
+      "zh": "v. 集中；专心；浓缩",
+      "group": "专注与控制",
+      "memory": "concentrate on learning 专心学习，记搭配 on。",
+      "note": "concentrate on learning 专心学习，记搭配 on。",
+      "column": 2,
+      "position": 34
+    },
+    {
+      "en": "concur",
+      "zh": "v. 同意；意见一致；同时发生",
+      "group": "同意与授予",
+      "memory": "concur with someone 同意某人，较正式。",
+      "note": "concur with someone 同意某人，较正式。",
+      "column": 3,
+      "position": 35
+    },
+    {
+      "en": "confer",
+      "zh": "v. 授予；商议",
+      "group": "同意与授予",
+      "memory": "confer an honor on someone 授予荣誉；confer with 商议。",
+      "note": "confer an honor on someone 授予荣誉；confer with 商议。",
+      "column": 3,
+      "position": 36
+    },
+    {
+      "en": "grant",
+      "zh": "v. 授予；准许；承认 n. 拨款",
+      "group": "同意与授予",
+      "memory": "grant permission 准许；grant that... 承认某个事实。",
+      "note": "grant permission 准许；grant that... 承认某个事实。",
+      "column": 3,
+      "position": 37
+    },
+    {
+      "en": "unharmonious",
+      "zh": "adj. 不协调的；不和谐的",
+      "group": "一致与兼容",
+      "memory": "un- 不＋harmonious 和谐的；常见近义表达 inharmonious。",
+      "note": "un- 不＋harmonious 和谐的；常见近义表达 inharmonious。",
+      "column": 3,
+      "position": 38
+    },
+    {
+      "en": "conservative",
+      "zh": "adj. 保守的；谨慎的 n. 保守派人士",
+      "group": "公共与政治",
+      "memory": "保守做法倾向保留现状；与 considerable 分清。",
+      "note": "保守做法倾向保留现状；与 considerable 分清。",
+      "column": 3,
+      "position": 39
+    },
+    {
+      "en": "considerable",
+      "zh": "adj. 相当大的；相当多的",
+      "group": "程度与条件",
+      "memory": "considerable progress 相当大的进步；不是 considerate（体贴的）。",
+      "note": "considerable progress 相当大的进步；不是 considerate（体贴的）。",
+      "column": 3,
+      "position": 40
+    },
+    {
+      "en": "contingent",
+      "zh": "adj. 取决于……的；偶然发生的 n. 代表团；分遣队",
+      "group": "程度与条件",
+      "memory": "contingent on 取决于；记拼写中间的 n：contingent。",
+      "note": "contingent on 取决于；记拼写中间的 n：contingent。",
+      "column": 3,
+      "position": 41
+    },
+    {
+      "en": "uncertain",
+      "zh": "adj. 不确定的；无把握的",
+      "group": "程度与条件",
+      "memory": "un- 不＋certain 确定：拿不准。",
+      "note": "un- 不＋certain 确定：拿不准。",
+      "column": 3,
+      "position": 42
+    },
+    {
+      "en": "controversial",
+      "zh": "adj. 有争议的；引起争论的",
+      "group": "争议与判断",
+      "memory": "controversy 争议→controversial，引起人们不同意见。",
+      "note": "controversy 争议→controversial，引起人们不同意见。",
+      "column": 3,
+      "position": 43
+    },
+    {
+      "en": "disputable",
+      "zh": "adj. 可争辩的；有疑问的",
+      "group": "争议与判断",
+      "memory": "dispute 争论＋able：可以争辩；强调结论不一定成立。",
+      "note": "dispute 争论＋able：可以争辩；强调结论不一定成立。",
+      "column": 3,
+      "position": 44
+    },
+    {
+      "en": "correlation",
+      "zh": "n. 相关；相互关系",
+      "group": "组织与联系",
+      "memory": "correlation 相关不等于因果：一起变化不一定谁导致谁。",
+      "note": "correlation 相关不等于因果：一起变化不一定谁导致谁。",
+      "column": 3,
+      "position": 45
+    },
+    {
+      "en": "courtship",
+      "zh": "n. 求爱；恋爱期",
+      "group": "承诺与交往",
+      "memory": "court 可作求爱，courtship 是追求和交往的过程。",
+      "note": "court 可作求爱，courtship 是追求和交往的过程。",
+      "column": 3,
+      "position": 46
+    },
+    {
+      "en": "collapse",
+      "zh": "v./n. 倒塌；崩溃；垮掉",
+      "group": "灾害与破坏",
+      "memory": "想象楼房突然塌下：collapse；记双 l。",
+      "note": "想象楼房突然塌下：collapse；记双 l。",
+      "column": 3,
+      "position": 47
+    },
+    {
+      "en": "conviction",
+      "zh": "n. 定罪；坚定的信念；确信",
+      "group": "核实与确信",
+      "memory": "conviction 既是定罪，也是坚信；不直接等同于刑罚判决。",
+      "note": "conviction 既是定罪，也是坚信；不直接等同于刑罚判决。",
+      "column": 3,
+      "position": 48
+    },
+    {
+      "en": "crisis",
+      "zh": "n. 危机；紧要关头",
+      "group": "灾害与破坏",
+      "memory": "单数 crisis，复数 crises：危机的拼写变化。",
+      "note": "单数 crisis，复数 crises：危机的拼写变化。",
+      "column": 3,
+      "position": 49
+    },
+    {
+      "en": "condemn",
+      "zh": "v. 谴责；判刑；宣告不适用",
+      "group": "争议与判断",
+      "memory": "condemn violence 谴责暴力；condemn someone to 判处……。",
+      "note": "condemn violence 谴责暴力；condemn someone to 判处……。",
+      "column": 3,
+      "position": 50
+    },
+    {
+      "en": "curb",
+      "zh": "v. 限制；抑制 n. 路缘",
+      "group": "专注与控制",
+      "memory": "curb spending 抑制开支，联想给过度增长踩刹车。",
+      "note": "curb spending 抑制开支，联想给过度增长踩刹车。",
+      "column": 3,
+      "position": 51
+    },
+    {
+      "en": "restrict",
+      "zh": "v. 限制；约束",
+      "group": "专注与控制",
+      "memory": "restrict access 限制进入；restriction 是名词。",
+      "note": "restrict access 限制进入；restriction 是名词。",
+      "column": 3,
+      "position": 52
+    },
+    {
+      "en": "damp",
+      "zh": "adj. 潮湿的 v. 抑制；使潮湿",
+      "group": "环境与感受",
+      "memory": "damp clothes 微湿的衣服，不一定已经湿透。",
+      "note": "damp clothes 微湿的衣服，不一定已经湿透。",
+      "column": 4,
+      "position": 53
+    },
+    {
+      "en": "dazzle",
+      "zh": "v. 使目眩；使赞叹",
+      "group": "环境与感受",
+      "memory": "强光晃眼：dazzle；记双 z。",
+      "note": "强光晃眼：dazzle；记双 z。",
+      "column": 4,
+      "position": 54
+    },
+    {
+      "en": "delay",
+      "zh": "v./n. 延迟；耽搁",
+      "group": "出行与推迟",
+      "memory": "delay doing something 推迟做某事；不接 to do。",
+      "note": "delay doing something 推迟做某事；不接 to do。",
+      "column": 4,
+      "position": 55
+    },
+    {
+      "en": "postpone",
+      "zh": "v. 推迟；延期",
+      "group": "出行与推迟",
+      "memory": "postpone the meeting 推迟会议，强调移到更晚时间。",
+      "note": "postpone the meeting 推迟会议，强调移到更晚时间。",
+      "column": 4,
+      "position": 56
+    },
+    {
+      "en": "democratic",
+      "zh": "adj. 民主的；民主制度的",
+      "group": "公共与政治",
+      "memory": "democracy 民主→democratic 民主的。",
+      "note": "democracy 民主→democratic 民主的。",
+      "column": 4,
+      "position": 57
+    },
+    {
+      "en": "republic",
+      "zh": "n. 共和国；共和政体",
+      "group": "公共与政治",
+      "memory": "republic 是名词；“共和的”可用 republican。",
+      "note": "republic 是名词；“共和的”可用 republican。",
+      "column": 4,
+      "position": 58
+    },
+    {
+      "en": "demographic",
+      "zh": "adj. 人口统计的；人口特征的",
+      "group": "公共与政治",
+      "memory": "demographic data 人口统计数据；记完整的 graphic。",
+      "note": "demographic data 人口统计数据；记完整的 graphic。",
+      "column": 4,
+      "position": 59
+    },
+    {
+      "en": "dental",
+      "zh": "adj. 牙齿的；牙科的",
+      "group": "环境与感受",
+      "memory": "dentist 牙医→dental 牙科的；dental care 牙齿护理。",
+      "note": "dentist 牙医→dental 牙科的；dental care 牙齿护理。",
+      "column": 4,
+      "position": 60
+    },
+    {
+      "en": "depression",
+      "zh": "n. 抑郁；沮丧；萧条；凹陷",
+      "group": "情绪与刺激",
+      "memory": "情绪、经济或地面“低下去”：depression；不等同于一切沮丧。",
+      "note": "情绪、经济或地面“低下去”：depression；不等同于一切沮丧。",
+      "column": 4,
+      "position": 61
+    },
+    {
+      "en": "frustration",
+      "zh": "n. 挫败感；沮丧；受阻",
+      "group": "情绪与刺激",
+      "memory": "想做却被阻住产生 frustration：挫败感。",
+      "note": "想做却被阻住产生 frustration：挫败感。",
+      "column": 4,
+      "position": 62
+    },
+    {
+      "en": "designate",
+      "zh": "v. 指定；指派；标明",
+      "group": "分配与任命",
+      "memory": "designate a place 指定地点；并非所有指出都用 designate。",
+      "note": "designate a place 指定地点；并非所有指出都用 designate。",
+      "column": 4,
+      "position": 63
+    },
+    {
+      "en": "appoint",
+      "zh": "v. 任命；委派；约定",
+      "group": "分配与任命",
+      "memory": "appoint a manager 任命经理；记双 p。",
+      "note": "appoint a manager 任命经理；记双 p。",
+      "column": 4,
+      "position": 64
+    },
+    {
+      "en": "detain",
+      "zh": "v. 扣留；拘留；耽搁",
+      "group": "专注与控制",
+      "memory": "detain a suspect 扣留嫌疑人；区别 retain 保留。",
+      "note": "detain a suspect 扣留嫌疑人；区别 retain 保留。",
+      "column": 4,
+      "position": 65
+    },
+    {
+      "en": "devastate",
+      "zh": "v. 毁坏；摧毁；使极度悲痛",
+      "group": "灾害与破坏",
+      "memory": "灾难把地区毁坏是 devastate；也可形容消息令人悲痛。",
+      "note": "灾难把地区毁坏是 devastate；也可形容消息令人悲痛。",
+      "column": 4,
+      "position": 66
+    },
+    {
+      "en": "wreck",
+      "zh": "v. 毁坏；破坏 n. 残骸；失事船只",
+      "group": "灾害与破坏",
+      "memory": "a shipwreck 海难或沉船；wreck 可指毁坏后的残骸。",
+      "note": "a shipwreck 海难或沉船；wreck 可指毁坏后的残骸。",
+      "column": 4,
+      "position": 67
+    },
+    {
+      "en": "disclose",
+      "zh": "v. 公开；透露；揭露",
+      "group": "隐藏与公开",
+      "memory": "disclose information 披露信息；与 conceal 隐瞒相反。",
+      "note": "disclose information 披露信息；与 conceal 隐瞒相反。",
+      "column": 4,
+      "position": 68
+    },
+    {
+      "en": "expose",
+      "zh": "v. 暴露；揭露；使接触",
+      "group": "隐藏与公开",
+      "memory": "expose to sunlight 暴露在阳光下；也可揭露秘密。",
+      "note": "expose to sunlight 暴露在阳光下；也可揭露秘密。",
+      "column": 4,
+      "position": 69
+    }
+  ]
+}

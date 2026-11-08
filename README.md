@@ -13,6 +13,11 @@
 - **姿姿有卫**：基于 OpenPose 的智能坐姿管理 APP，项目负责人，2025.10–2026.03。
 - **愈见贴“芯”**：基于 TRIZ 方法的创面辅助上药与防护方案，项目负责人，2024.12–至今。
 
+## 个人软件
+
+- **SelfControl（日积）** 把学习和运动记进同一本日历。记下今天读了几章书、做了多久运动，再按周或月回看自己的投入。[在线使用](https://y1335618214-byte.github.io/projects/selfcontrol/app/) · [查看源码](./projects/selfcontrol/)
+- **WordMem（好好背单词）** 把六批手写词表做成双向复习卡片。看英文想中文，也可以反过来练。翻面核对后标记掌握程度，下一轮再练没记牢的词。[在线使用](https://y1335618214-byte.github.io/projects/wordmem/) · [查看源码](./projects/wordmem/)
+
 ## 学习与能力
 
 - R、Python；Java 与数据库开发基础；LaTeX、Office、Linux。

@@ -1,0 +1,44 @@
+import { test, expect } from "@playwright/test";
+test("custom projects, exercise, calendar search and archive preserve history", async ({
+  page,
+}) => {
+  await page.goto("/");
+  await page.getByRole("button", { name: "我的", exact: true }).click();
+  await page.getByLabel("项目名称", { exact: true }).fill("解剖学");
+  await page.getByRole("button", { name: "添加项目", exact: true }).click();
+  await expect(page.getByRole("button", { name: "归档解剖学" })).toBeVisible();
+  await page.getByLabel("项目类别").selectOption("体育项目");
+  await page.getByLabel("项目名称", { exact: true }).fill("跑步");
+  await page.getByRole("button", { name: "添加项目", exact: true }).click();
+  await expect(page.getByRole("button", { name: "归档跑步" })).toBeVisible();
+  await page.getByRole("button", { name: "学习", exact: true }).click();
+  await page.getByLabel("记录日期").fill("2026-10-20");
+  await page.getByRole("button", { name: "记录解剖学" }).click();
+  await page.getByLabel("时长（分钟）").fill("45");
+  await page.getByLabel("内容或学习任务").fill("骨骼系统");
+  await page.getByRole("button", { name: "保存记录", exact: true }).click();
+  await expect(page.getByRole("dialog")).toHaveCount(0);
+  await page.getByLabel("记录日期").fill("2026-10-21");
+  await expect(page.getByRole("button", { name: "记录解剖学" })).toBeVisible();
+  await page.getByRole("button", { name: "运动", exact: true }).click();
+  await page.getByRole("button", { name: "记录跑步" }).click();
+  await page.getByLabel("时长（分钟）").fill("30");
+  await page.getByLabel("训练内容").fill("公园慢跑");
+  await page.getByLabel("训练感受").fill("很舒适");
+  await page.getByRole("button", { name: "保存记录", exact: true }).click();
+  await expect(page.getByRole("dialog")).toHaveCount(0);
+  await page.getByRole("button", { name: "我的", exact: true }).click();
+  await page.getByRole("button", { name: "归档解剖学" }).click();
+  await page.getByRole("button", { name: "学习", exact: true }).click();
+  await expect(page.getByRole("button", { name: "记录解剖学" })).toHaveCount(0);
+  await page.getByRole("button", { name: "日历", exact: true }).click();
+  await page.getByLabel("查询日期").fill("2026-10-20");
+  await page.getByRole("button", { name: "编辑解剖学" }).click();
+  await expect(page.getByLabel("内容或学习任务")).toHaveValue("骨骼系统");
+  await page.getByRole("button", { name: "取消", exact: true }).click();
+  await page.getByLabel("搜索所有日期").check();
+  await page.getByLabel("项目名称搜索").fill("跑步");
+  await expect(page.getByText("公园慢跑", { exact: false })).toBeVisible();
+  await page.getByLabel("记录类型").selectOption("study");
+  await expect(page.getByRole("button", { name: "编辑跑步" })).toHaveCount(0);
+});

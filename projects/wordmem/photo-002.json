@@ -1,0 +1,574 @@
+{
+  "id": "photo-002",
+  "name": "手写词表 · 第 2 批",
+  "order": "每列从上到下，列从左到右",
+  "words": [
+    {
+      "en": "diagnose",
+      "zh": "v. 诊断；查明原因",
+      "group": "诊断与意识",
+      "memory": "diagnose a disease：医生诊断疾病，名词 diagnosis。",
+      "note": "diagnose a disease：医生诊断疾病，名词 diagnosis。",
+      "column": 1,
+      "position": 1
+    },
+    {
+      "en": "emphasize",
+      "zh": "v. 强调；着重",
+      "group": "强调与夸大",
+      "memory": "emphasis 是强调，emphasize 是进行强调。",
+      "note": "emphasis 是强调，emphasize 是进行强调。",
+      "column": 1,
+      "position": 2
+    },
+    {
+      "en": "enormous",
+      "zh": "adj. 巨大的；极大的",
+      "group": "大小与数量",
+      "memory": "把 enormous 和 massive 放一起记：都强调“大”。",
+      "note": "把 enormous 和 massive 放一起记：都强调“大”。",
+      "column": 1,
+      "position": 3
+    },
+    {
+      "en": "massive",
+      "zh": "adj. 巨大的；大量的；厚重的",
+      "group": "大小与数量",
+      "memory": "mass 是大量或块体，massive 联想一大块厚重的石头。",
+      "note": "mass 是大量或块体，massive 联想一大块厚重的石头。",
+      "column": 1,
+      "position": 4
+    },
+    {
+      "en": "imitate",
+      "zh": "v. 模仿；仿效",
+      "group": "模仿与模拟",
+      "memory": "imitate a teacher：模仿老师的做法。",
+      "note": "imitate a teacher：模仿老师的做法。",
+      "column": 1,
+      "position": 5
+    },
+    {
+      "en": "mimic",
+      "zh": "v. 模仿；模拟 n. 善于模仿的人",
+      "group": "模仿与模拟",
+      "memory": "联想鹦鹉模仿声音；mimic 常强调声音或动作的模仿。",
+      "note": "联想鹦鹉模仿声音；mimic 常强调声音或动作的模仿。",
+      "column": 1,
+      "position": 6
+    },
+    {
+      "en": "impair",
+      "zh": "v. 损害；削弱",
+      "group": "损害与减少",
+      "memory": "impair hearing：削弱听力，强调功能受损。",
+      "note": "impair hearing：削弱听力，强调功能受损。",
+      "column": 1,
+      "position": 7
+    },
+    {
+      "en": "damage",
+      "zh": "v./n. 损坏；损害",
+      "group": "损害与减少",
+      "memory": "damage a phone：手机摔坏；damage 作损害名词通常不可数。",
+      "note": "damage a phone：手机摔坏；damage 作损害名词通常不可数。",
+      "column": 1,
+      "position": 8
+    },
+    {
+      "en": "diminish",
+      "zh": "v. 减少；减弱；降低",
+      "group": "损害与减少",
+      "memory": "联想音量慢慢变小：diminish 强调减少或变弱。",
+      "note": "联想音量慢慢变小：diminish 强调减少或变弱。",
+      "column": 1,
+      "position": 9
+    },
+    {
+      "en": "hinder",
+      "zh": "v. 阻碍；妨碍",
+      "group": "阻碍与限制",
+      "memory": "hinder progress：让进步变慢。",
+      "note": "hinder progress：让进步变慢。",
+      "column": 1,
+      "position": 10
+    },
+    {
+      "en": "impede",
+      "zh": "v. 阻碍；妨碍",
+      "group": "阻碍与限制",
+      "memory": "impede traffic：堵住道路，妨碍通行。",
+      "note": "impede traffic：堵住道路，妨碍通行。",
+      "column": 1,
+      "position": 11
+    },
+    {
+      "en": "deter",
+      "zh": "v. 阻止；使打消念头",
+      "group": "阻碍与限制",
+      "memory": "deter someone from doing：让人打消做某事的念头。",
+      "note": "deter someone from doing：让人打消做某事的念头。",
+      "column": 1,
+      "position": 12
+    },
+    {
+      "en": "obstacle",
+      "zh": "n. 障碍；障碍物",
+      "group": "阻碍与限制",
+      "memory": "联想路中央的石头：an obstacle；这是名词。",
+      "note": "联想路中央的石头：an obstacle；这是名词。",
+      "column": 1,
+      "position": 13
+    },
+    {
+      "en": "legitimate",
+      "zh": "adj. 合法的；正当的；合理的",
+      "group": "合法与惯例",
+      "memory": "legitimate reason：正当理由；比 legal 多一层合理正当。",
+      "note": "legitimate reason：正当理由；比 legal 多一层合理正当。",
+      "column": 1,
+      "position": 14
+    },
+    {
+      "en": "legal",
+      "zh": "adj. 法律的；合法的",
+      "group": "合法与惯例",
+      "memory": "legal 与 illegal 成对记：合法／非法。",
+      "note": "legal 与 illegal 成对记：合法／非法。",
+      "column": 1,
+      "position": 15
+    },
+    {
+      "en": "restriction",
+      "zh": "n. 限制；限制规定",
+      "group": "阻碍与限制",
+      "memory": "restrict 限制＋名词后缀 -ion：restriction。",
+      "note": "restrict 限制＋名词后缀 -ion：restriction。",
+      "column": 2,
+      "position": 16
+    },
+    {
+      "en": "convention",
+      "zh": "n. 惯例；习俗；大会；公约",
+      "group": "合法与惯例",
+      "memory": "按大家共同习惯做事是 convention；不是 conviction。",
+      "note": "按大家共同习惯做事是 convention；不是 conviction。",
+      "column": 2,
+      "position": 17
+    },
+    {
+      "en": "method",
+      "zh": "n. 方法；办法",
+      "group": "方法与决定",
+      "memory": "a method of learning：学习方法。",
+      "note": "a method of learning：学习方法。",
+      "column": 2,
+      "position": 18
+    },
+    {
+      "en": "demanding",
+      "zh": "adj. 要求高的；费力的；苛求的",
+      "group": "困难与复杂",
+      "memory": "demand 要求很多，所以 demanding 是要求高、费力。",
+      "note": "demand 要求很多，所以 demanding 是要求高、费力。",
+      "column": 2,
+      "position": 19
+    },
+    {
+      "en": "troublesome",
+      "zh": "adj. 麻烦的；令人烦恼的",
+      "group": "困难与复杂",
+      "memory": "trouble 麻烦＋some：带来麻烦的。",
+      "note": "trouble 麻烦＋some：带来麻烦的。",
+      "column": 2,
+      "position": 20
+    },
+    {
+      "en": "determine",
+      "zh": "v. 决定；确定；查明",
+      "group": "方法与决定",
+      "memory": "determine the cause：确定原因；determined 是坚定的。",
+      "note": "determine the cause：确定原因；determined 是坚定的。",
+      "column": 2,
+      "position": 21
+    },
+    {
+      "en": "accelerate",
+      "zh": "v. 加速；促进",
+      "group": "速度与紧迫",
+      "memory": "联想汽车踩油门：accelerate；不是泛指“强调”。",
+      "note": "联想汽车踩油门：accelerate；不是泛指“强调”。",
+      "column": 2,
+      "position": 22
+    },
+    {
+      "en": "wholesome",
+      "zh": "adj. 有益健康的；有益身心的",
+      "group": "健康与抵抗",
+      "memory": "wholesome food：健康食品；别和 wholesale（批发）混淆。",
+      "note": "wholesome food：健康食品；别和 wholesale（批发）混淆。",
+      "column": 2,
+      "position": 23
+    },
+    {
+      "en": "chronic",
+      "zh": "adj. 慢性的；长期的",
+      "group": "持续与存续",
+      "memory": "chronic pain：持续很久的慢性疼痛。",
+      "note": "chronic pain：持续很久的慢性疼痛。",
+      "column": 2,
+      "position": 24
+    },
+    {
+      "en": "lasting",
+      "zh": "adj. 持久的；长久的",
+      "group": "持续与存续",
+      "memory": "last 作动词是持续，lasting 就是持续很久的。",
+      "note": "last 作动词是持续，lasting 就是持续很久的。",
+      "column": 2,
+      "position": 25
+    },
+    {
+      "en": "conscious",
+      "zh": "adj. 有意识的；神志清醒的；察觉到的",
+      "group": "诊断与意识",
+      "memory": "be conscious of danger：意识到危险；不是 conscience（良心）。",
+      "note": "be conscious of danger：意识到危险；不是 conscience（良心）。",
+      "column": 2,
+      "position": 26
+    },
+    {
+      "en": "minimize",
+      "zh": "v. 使最小化；把……降至最低",
+      "group": "损害与减少",
+      "memory": "mini 联想“小”，minimize：把风险压到最小。",
+      "note": "mini 联想“小”，minimize：把风险压到最小。",
+      "column": 2,
+      "position": 27
+    },
+    {
+      "en": "immunity",
+      "zh": "n. 免疫力；豁免",
+      "group": "健康与抵抗",
+      "memory": "immune 免疫的→immunity 免疫力，想象身体的防护盾。",
+      "note": "immune 免疫的→immunity 免疫力，想象身体的防护盾。",
+      "column": 2,
+      "position": 28
+    },
+    {
+      "en": "resistance",
+      "zh": "n. 抵抗；抵抗力；阻力；电阻",
+      "group": "健康与抵抗",
+      "memory": "resist 抵抗→resistance；不只指对抗。",
+      "note": "resist 抵抗→resistance；不只指对抗。",
+      "column": 2,
+      "position": 29
+    },
+    {
+      "en": "imperative",
+      "zh": "adj. 必要的；紧迫的 n. 必须做的事；祈使语气",
+      "group": "速度与紧迫",
+      "memory": "记首字母 i，不是 e；imperative 表示非做不可。",
+      "note": "记首字母 i，不是 e；imperative 表示非做不可。",
+      "column": 2,
+      "position": 30
+    },
+    {
+      "en": "compelling",
+      "zh": "adj. 令人信服的；引人入胜的；强烈的",
+      "group": "说服与保证",
+      "memory": "compel 迫使→compelling：强到让人不得不信或关注。",
+      "note": "compel 迫使→compelling：强到让人不得不信或关注。",
+      "column": 2,
+      "position": 31
+    },
+    {
+      "en": "urgent",
+      "zh": "adj. 紧急的；急迫的",
+      "group": "速度与紧迫",
+      "memory": "urgent message：需要马上处理的消息。",
+      "note": "urgent message：需要马上处理的消息。",
+      "column": 3,
+      "position": 32
+    },
+    {
+      "en": "secrete",
+      "zh": "v. 分泌；隐藏",
+      "group": "释放与分泌",
+      "memory": "分泌义联想腺体；与 secret（秘密）区分，结尾多一个 e。",
+      "note": "分泌义联想腺体；与 secret（秘密）区分，结尾多一个 e。",
+      "column": 3,
+      "position": 33
+    },
+    {
+      "en": "discharge",
+      "zh": "v. 排出；释放；准许出院 n. 排放；出院",
+      "group": "释放与分泌",
+      "memory": "想象“从里面放出去”：排出液体、释放、出院。",
+      "note": "想象“从里面放出去”：排出液体、释放、出院。",
+      "column": 3,
+      "position": 34
+    },
+    {
+      "en": "exude",
+      "zh": "v. 渗出；散发；流露",
+      "group": "释放与分泌",
+      "memory": "exude confidence：自信像气息一样流露出来。",
+      "note": "exude confidence：自信像气息一样流露出来。",
+      "column": 3,
+      "position": 35
+    },
+    {
+      "en": "exaggerate",
+      "zh": "v. 夸大；夸张",
+      "group": "强调与夸大",
+      "memory": "记住中间双 g：exaggerate，把小事说得很大。",
+      "note": "记住中间双 g：exaggerate，把小事说得很大。",
+      "column": 3,
+      "position": 36
+    },
+    {
+      "en": "overstate",
+      "zh": "v. 夸大；夸张地陈述",
+      "group": "强调与夸大",
+      "memory": "over 过度＋state 陈述：说过头。",
+      "note": "over 过度＋state 陈述：说过头。",
+      "column": 3,
+      "position": 37
+    },
+    {
+      "en": "extinct",
+      "zh": "adj. 灭绝的；不再存在的",
+      "group": "持续与存续",
+      "memory": "extinct animals：已经灭绝的动物；区别 existing（现存的）。",
+      "note": "extinct animals：已经灭绝的动物；区别 existing（现存的）。",
+      "column": 3,
+      "position": 38
+    },
+    {
+      "en": "exclusive",
+      "zh": "adj. 独有的；专用的；排他的",
+      "group": "偏好与优先",
+      "memory": "exclude 排除→exclusive：只给部分人，排除其他人。",
+      "note": "exclude 排除→exclusive：只给部分人，排除其他人。",
+      "column": 3,
+      "position": 39
+    },
+    {
+      "en": "guarantee",
+      "zh": "v./n. 保证；担保",
+      "group": "说服与保证",
+      "memory": "a money-back guarantee：退款保证；记结尾双 e。",
+      "note": "a money-back guarantee：退款保证；记结尾双 e。",
+      "column": 3,
+      "position": 40
+    },
+    {
+      "en": "assure",
+      "zh": "v. 使确信；向……保证",
+      "group": "说服与保证",
+      "memory": "assure someone：让“人”放心；通常接人作宾语。",
+      "note": "assure someone：让“人”放心；通常接人作宾语。",
+      "column": 3,
+      "position": 41
+    },
+    {
+      "en": "inherit",
+      "zh": "v. 继承；遗传获得",
+      "group": "获得与继承",
+      "memory": "inherit a house：继承房产，来源是上一代。",
+      "note": "inherit a house：继承房产，来源是上一代。",
+      "column": 3,
+      "position": 42
+    },
+    {
+      "en": "receive",
+      "zh": "v. 收到；接到；接待",
+      "group": "获得与继承",
+      "memory": "拼写记 ceive；receive a gift：收到礼物。",
+      "note": "拼写记 ceive；receive a gift：收到礼物。",
+      "column": 3,
+      "position": 43
+    },
+    {
+      "en": "magnetic",
+      "zh": "adj. 有磁性的；有吸引力的",
+      "group": "吸引与偏好",
+      "memory": "magnet 磁铁→magnetic；像磁铁一样吸引人。",
+      "note": "magnet 磁铁→magnetic；像磁铁一样吸引人。",
+      "column": 3,
+      "position": 44
+    },
+    {
+      "en": "attractive",
+      "zh": "adj. 有吸引力的；迷人的",
+      "group": "吸引与偏好",
+      "memory": "attract 吸引＋ive：有吸引力的。",
+      "note": "attract 吸引＋ive：有吸引力的。",
+      "column": 3,
+      "position": 45
+    },
+    {
+      "en": "would rather",
+      "zh": "phr. 宁愿；宁可",
+      "group": "偏好与优先",
+      "memory": "would rather do：后接动词原形，不加 to。",
+      "note": "would rather do：后接动词原形，不加 to。",
+      "column": 3,
+      "position": 46
+    },
+    {
+      "en": "priority",
+      "zh": "n. 优先事项；优先权",
+      "group": "偏好与优先",
+      "memory": "排在任务清单第一位的事：top priority。",
+      "note": "排在任务清单第一位的事：top priority。",
+      "column": 3,
+      "position": 47
+    },
+    {
+      "en": "preference",
+      "zh": "n. 偏爱；偏好；优先选择",
+      "group": "偏好与优先",
+      "memory": "prefer 更喜欢→preference 偏好；不等于所有场景的优先权。",
+      "note": "prefer 更喜欢→preference 偏好；不等于所有场景的优先权。",
+      "column": 3,
+      "position": 48
+    },
+    {
+      "en": "preferential",
+      "zh": "adj. 优惠的；优待的；优先的",
+      "group": "偏好与优先",
+      "memory": "prefer→preferential，记中间的 r：preferential treatment 优待。",
+      "note": "prefer→preferential，记中间的 r：preferential treatment 优待。",
+      "column": 4,
+      "position": 49
+    },
+    {
+      "en": "principal",
+      "zh": "adj. 主要的；最重要的 n. 校长；本金",
+      "group": "重要与具体",
+      "memory": "principal 是主要的／校长；“原理、原则”是 principle。",
+      "note": "principal 是主要的／校长；“原理、原则”是 principle。",
+      "column": 4,
+      "position": 50
+    },
+    {
+      "en": "quantity",
+      "zh": "n. 数量；量",
+      "group": "大小与数量",
+      "memory": "quantity 数量，quality 质量：多了多少和好不好分开记。",
+      "note": "quantity 数量，quality 质量：多了多少和好不好分开记。",
+      "column": 4,
+      "position": 51
+    },
+    {
+      "en": "settle",
+      "zh": "v. 解决；定居；安定下来；结清",
+      "group": "解决与安置",
+      "memory": "settle a problem 解决问题；settle down 安定下来。",
+      "note": "settle a problem 解决问题；settle down 安定下来。",
+      "column": 4,
+      "position": 52
+    },
+    {
+      "en": "sophisticate",
+      "zh": "v. 使复杂；使世故 n. 老练世故的人",
+      "group": "困难与复杂",
+      "memory": "保留原词 sophisticate；常见形容词 sophisticated 表示复杂精密或老练的。",
+      "note": "保留原词 sophisticate；常见形容词 sophisticated 表示复杂精密或老练的。",
+      "column": 4,
+      "position": 53
+    },
+    {
+      "en": "complicate",
+      "zh": "v. 使复杂；使难以理解",
+      "group": "困难与复杂",
+      "memory": "complicate the problem：把简单问题弄复杂。",
+      "note": "complicate the problem：把简单问题弄复杂。",
+      "column": 4,
+      "position": 54
+    },
+    {
+      "en": "specific",
+      "zh": "adj. 具体的；明确的；特定的",
+      "group": "重要与具体",
+      "memory": "specific details：具体细节，不只是泛泛的“特殊”。",
+      "note": "specific details：具体细节，不只是泛泛的“特殊”。",
+      "column": 4,
+      "position": 55
+    },
+    {
+      "en": "detailed",
+      "zh": "adj. 详细的；细致的",
+      "group": "重要与具体",
+      "memory": "detail 细节→detailed：把细节交代完整。",
+      "note": "detail 细节→detailed：把细节交代完整。",
+      "column": 4,
+      "position": 56
+    },
+    {
+      "en": "particular",
+      "zh": "adj. 特定的；某一的；讲究的",
+      "group": "重要与具体",
+      "memory": "in particular 尤其；a particular person 某个特定的人。",
+      "note": "in particular 尤其；a particular person 某个特定的人。",
+      "column": 4,
+      "position": 57
+    },
+    {
+      "en": "remain",
+      "zh": "v. 留下；仍然是；剩余",
+      "group": "持续与存续",
+      "memory": "remain calm：仍然保持冷静；动词，不是名词遗骸。",
+      "note": "remain calm：仍然保持冷静；动词，不是名词遗骸。",
+      "column": 4,
+      "position": 58
+    },
+    {
+      "en": "swift",
+      "zh": "adj. 迅速的；敏捷的",
+      "group": "速度与紧迫",
+      "memory": "swift action：迅速行动，联想一眨眼就完成。",
+      "note": "swift action：迅速行动，联想一眨眼就完成。",
+      "column": 4,
+      "position": 59
+    },
+    {
+      "en": "rapid",
+      "zh": "adj. 快的；迅速的",
+      "group": "速度与紧迫",
+      "memory": "rapid growth：迅速增长，常指变化或过程的速度。",
+      "note": "rapid growth：迅速增长，常指变化或过程的速度。",
+      "column": 4,
+      "position": 60
+    },
+    {
+      "en": "setting",
+      "zh": "n. 环境；背景；场景；设置",
+      "group": "环境与尝试",
+      "memory": "故事发生的地点和时代是 setting；手机选项是 settings。",
+      "note": "故事发生的地点和时代是 setting；手机选项是 settings。",
+      "column": 4,
+      "position": 61
+    },
+    {
+      "en": "attempt",
+      "zh": "v./n. 尝试；企图",
+      "group": "环境与尝试",
+      "memory": "attempt to do：尝试做；不保证成功。",
+      "note": "attempt to do：尝试做；不保证成功。",
+      "column": 4,
+      "position": 62
+    },
+    {
+      "en": "expertise",
+      "zh": "n. 专业知识；专长；技能",
+      "group": "能力与专业",
+      "memory": "expert 专家→expertise：专家拥有的知识技能。",
+      "note": "expert 专家→expertise：专家拥有的知识技能。",
+      "column": 4,
+      "position": 63
+    }
+  ]
+}

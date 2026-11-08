@@ -1,0 +1,673 @@
+{
+  "id": "photo-005",
+  "name": "手写词表 · 第 5 批",
+  "words": [
+    {
+      "en": "disparate",
+      "zh": "adj. 迥异的",
+      "group": "差异",
+      "memory": "disparate ideas 差异很大的想法，强调不相同。",
+      "note": "",
+      "column": 1,
+      "position": 1
+    },
+    {
+      "en": "disrupt",
+      "zh": "v. 扰乱；中断",
+      "group": "干扰",
+      "memory": "disrupt a meeting 打断会议，让原有秩序乱掉。",
+      "note": "",
+      "column": 1,
+      "position": 2
+    },
+    {
+      "en": "distract",
+      "zh": "v. 分散注意力",
+      "group": "干扰",
+      "memory": "distract attention 分散注意力：脑子被别的事拉走。",
+      "note": "",
+      "column": 1,
+      "position": 3
+    },
+    {
+      "en": "divert",
+      "zh": "v. 转移；使改道",
+      "group": "干扰",
+      "memory": "divert traffic 让车辆改道，核心是转向。",
+      "note": "",
+      "column": 1,
+      "position": 4
+    },
+    {
+      "en": "distribute",
+      "zh": "v. 分发；分配",
+      "group": "分配",
+      "memory": "distribute food 分发食物：把东西分给大家。",
+      "note": "",
+      "column": 1,
+      "position": 5
+    },
+    {
+      "en": "documentation",
+      "zh": "n. 文件资料；书面证明",
+      "group": "信息",
+      "memory": "document 文件→documentation 一整套文件资料。",
+      "note": "",
+      "column": 1,
+      "position": 6
+    },
+    {
+      "en": "domain",
+      "zh": "n. 领域；域名",
+      "group": "信息",
+      "memory": "a domain of knowledge 一个知识领域；网站域名也是 domain。",
+      "note": "",
+      "column": 1,
+      "position": 7
+    },
+    {
+      "en": "dominant",
+      "zh": "adj. 占主导地位的",
+      "group": "支配",
+      "memory": "dominate 支配→dominant 占主导地位的。",
+      "note": "",
+      "column": 1,
+      "position": 8
+    },
+    {
+      "en": "overbearing",
+      "zh": "adj. 专横的；盛气凌人的",
+      "group": "支配",
+      "memory": "这是形容词专横的，不是动词击败；联想总压着别人说话的人。",
+      "note": "这是形容词专横的，不是动词击败；联想总压着别人说话的人。",
+      "column": 1,
+      "position": 9
+    },
+    {
+      "en": "striking",
+      "zh": "adj. 显著的；引人注目的",
+      "group": "程度",
+      "memory": "strike 打击→striking 像撞入眼帘一样引人注目（联想）。",
+      "note": "",
+      "column": 1,
+      "position": 10
+    },
+    {
+      "en": "durable",
+      "zh": "adj. 耐用的；持久的",
+      "group": "持续",
+      "memory": "a durable bag 耐用的包：用很久都不坏。",
+      "note": "",
+      "column": 1,
+      "position": 11
+    },
+    {
+      "en": "elaborate",
+      "zh": "v. 详细阐述 adj. 精心制作的；复杂的",
+      "group": "信息",
+      "memory": "elaborate on an idea 详细说明想法；形容词可指复杂精细。",
+      "note": "",
+      "column": 1,
+      "position": 12
+    },
+    {
+      "en": "eliminate",
+      "zh": "v. 消除；排除",
+      "group": "清除",
+      "memory": "eliminate errors 把错误一个个清除掉。",
+      "note": "",
+      "column": 1,
+      "position": 13
+    },
+    {
+      "en": "dispose",
+      "zh": "v. 安排；使倾向于",
+      "group": "清除",
+      "memory": "丢弃要记 dispose of；dispose 单独不直接等于丢掉。",
+      "note": "丢弃要记 dispose of；dispose 单独不直接等于丢掉。",
+      "column": 1,
+      "position": 14
+    },
+    {
+      "en": "elusive",
+      "zh": "adj. 难以找到的；难以捉摸的",
+      "group": "困难",
+      "memory": "想象难捉到的鱼：elusive 难以抓住或弄清。",
+      "note": "",
+      "column": 1,
+      "position": 15
+    },
+    {
+      "en": "encyclopaedia",
+      "zh": "n. 百科全书",
+      "group": "信息",
+      "memory": "有效英式拼写；美式常用 encyclopedia。",
+      "note": "有效英式拼写；美式常用 encyclopedia。",
+      "column": 1,
+      "position": 16
+    },
+    {
+      "en": "entrepreneur",
+      "zh": "n. 企业家",
+      "group": "人物",
+      "memory": "企业家 entrepreneur：分段记 entre-preneur，注意结尾 neur。",
+      "note": "",
+      "column": 1,
+      "position": 17
+    },
+    {
+      "en": "equator",
+      "zh": "n. 赤道",
+      "group": "自然",
+      "memory": "联想把地球分成南北两半的线：赤道 equator。",
+      "note": "",
+      "column": 2,
+      "position": 18
+    },
+    {
+      "en": "erratically",
+      "zh": "adv. 不规律地；反复无常地",
+      "group": "差异",
+      "memory": "erratic 不规律的＋ally：动作忽快忽慢、没有规律。",
+      "note": "",
+      "column": 2,
+      "position": 19
+    },
+    {
+      "en": "estate",
+      "zh": "n. 地产；庄园；遗产",
+      "group": "财产",
+      "memory": "real estate 房地产；遗产也可叫 estate。",
+      "note": "",
+      "column": 2,
+      "position": 20
+    },
+    {
+      "en": "property",
+      "zh": "n. 财产；房地产；特性",
+      "group": "财产",
+      "memory": "property 财产；properties 也常表示材料的特性。",
+      "note": "",
+      "column": 2,
+      "position": 21
+    },
+    {
+      "en": "ethical",
+      "zh": "adj. 道德的；合乎道德的",
+      "group": "评价",
+      "memory": "ethics 道德规范→ethical 合乎道德的。",
+      "note": "",
+      "column": 2,
+      "position": 22
+    },
+    {
+      "en": "eventually",
+      "zh": "adv. 最后；终于",
+      "group": "持续",
+      "memory": "经过一系列事情后终于发生：eventually。",
+      "note": "",
+      "column": 2,
+      "position": 23
+    },
+    {
+      "en": "exceptional",
+      "zh": "adj. 杰出的；异常的",
+      "group": "程度",
+      "memory": "exception 例外→exceptional 超出一般水平的。",
+      "note": "",
+      "column": 2,
+      "position": 24
+    },
+    {
+      "en": "extreme",
+      "zh": "adj. 极端的 n. 极端",
+      "group": "程度",
+      "memory": "extreme weather 极端天气：达到极端程度。",
+      "note": "",
+      "column": 2,
+      "position": 25
+    },
+    {
+      "en": "utmost",
+      "zh": "adj. 极度的；最大的 n. 极限",
+      "group": "程度",
+      "memory": "do your utmost 尽最大努力，记住 most 的最高程度。",
+      "note": "",
+      "column": 2,
+      "position": 26
+    },
+    {
+      "en": "exhausted",
+      "zh": "adj. 筋疲力尽的；耗尽的",
+      "group": "疲劳",
+      "memory": "像电池耗尽：exhausted 筋疲力尽的。",
+      "note": "",
+      "column": 2,
+      "position": 27
+    },
+    {
+      "en": "fatigue",
+      "zh": "n. 疲劳；疲乏",
+      "group": "疲劳",
+      "memory": "fatigue 是名词疲劳；exhausted 是形容词精疲力竭。",
+      "note": "",
+      "column": 2,
+      "position": 28
+    },
+    {
+      "en": "explicit",
+      "zh": "adj. 明确的；直言不讳的",
+      "group": "信息",
+      "memory": "explicit instructions 明确指示：把要求明白说出来。",
+      "note": "",
+      "column": 2,
+      "position": 29
+    },
+    {
+      "en": "exploit",
+      "zh": "v. 利用；开发；剥削",
+      "group": "利用",
+      "memory": "exploit resources 开发资源；exploit workers 剥削工人。",
+      "note": "",
+      "column": 2,
+      "position": 30
+    },
+    {
+      "en": "quotation",
+      "zh": "n. 引语；引文；报价",
+      "group": "信息",
+      "memory": "quote 引用→quotation 引文；商业语境也可指报价。",
+      "note": "",
+      "column": 2,
+      "position": 31
+    },
+    {
+      "en": "famine",
+      "zh": "n. 饥荒",
+      "group": "灾害",
+      "memory": "想象粮食严重短缺：famine 饥荒，不只是一次肚子饿。",
+      "note": "",
+      "column": 2,
+      "position": 32
+    },
+    {
+      "en": "finite",
+      "zh": "adj. 有限的",
+      "group": "程度",
+      "memory": "finite 有限的；加 in- 成 infinite 无限的。",
+      "note": "",
+      "column": 2,
+      "position": 33
+    },
+    {
+      "en": "foe",
+      "zh": "n. 敌人；对手",
+      "group": "人物",
+      "memory": "friend or foe 朋友还是敌人：把两个角色对照记。",
+      "note": "",
+      "column": 2,
+      "position": 34
+    },
+    {
+      "en": "enemy",
+      "zh": "n. 敌人；敌军",
+      "group": "人物",
+      "memory": "enemy 是常用的敌人；foe 更偏文学或正式表达。",
+      "note": "",
+      "column": 2,
+      "position": 35
+    },
+    {
+      "en": "format",
+      "zh": "n. 格式 v. 编排格式",
+      "group": "信息",
+      "memory": "文件的排列样式叫 format；也能作动词格式化。",
+      "note": "",
+      "column": 2,
+      "position": 36
+    },
+    {
+      "en": "fragment",
+      "zh": "n. 碎片 v. 使碎裂",
+      "group": "破坏",
+      "memory": "a fragment of glass 一小片玻璃；不是完整整体。",
+      "note": "",
+      "column": 3,
+      "position": 37
+    },
+    {
+      "en": "chill",
+      "zh": "n. 寒冷；寒意 v. 使冷却",
+      "group": "自然",
+      "memory": "a chill in the air 空气中的寒意；chilly 是寒冷的。",
+      "note": "",
+      "column": 3,
+      "position": 38
+    },
+    {
+      "en": "execute",
+      "zh": "v. 执行；完成；处决",
+      "group": "行动",
+      "memory": "execute a plan 执行计划；execute a prisoner 处决囚犯。",
+      "note": "",
+      "column": 3,
+      "position": 39
+    },
+    {
+      "en": "residence",
+      "zh": "n. 住宅；居住",
+      "group": "财产",
+      "memory": "resident 居民→residence 住处或居住。",
+      "note": "",
+      "column": 3,
+      "position": 40
+    },
+    {
+      "en": "harbour",
+      "zh": "n. 港口 v. 心怀；庇护",
+      "group": "自然",
+      "memory": "英式 harbour；美式 harbor。港口也可联想到庇护。",
+      "note": "英式 harbour；美式 harbor。港口也可联想到庇护。",
+      "column": 3,
+      "position": 41
+    },
+    {
+      "en": "hardship",
+      "zh": "n. 困苦；艰难",
+      "group": "困难",
+      "memory": "hard 困难＋ship：经历的艰难困苦。",
+      "note": "",
+      "column": 3,
+      "position": 42
+    },
+    {
+      "en": "harsh",
+      "zh": "adj. 严酷的；刺耳的；严厉的",
+      "group": "困难",
+      "memory": "harsh words 严厉的话；harsh weather 严酷天气。",
+      "note": "",
+      "column": 3,
+      "position": 43
+    },
+    {
+      "en": "hypothesis",
+      "zh": "n. 假说；假设",
+      "group": "推理",
+      "memory": "待检验的解释是 hypothesis；assumption 是先当作真的前提。",
+      "note": "待检验的解释是 hypothesis；assumption 是先当作真的前提。",
+      "column": 3,
+      "position": 44
+    },
+    {
+      "en": "assumption",
+      "zh": "n. 假定；假设",
+      "group": "推理",
+      "memory": "assume 假定→assumption 先当作真的前提。",
+      "note": "",
+      "column": 3,
+      "position": 45
+    },
+    {
+      "en": "conform",
+      "zh": "v. 遵守；符合",
+      "group": "行动",
+      "memory": "conform to rules 遵守规则，记搭配 to。",
+      "note": "",
+      "column": 3,
+      "position": 46
+    },
+    {
+      "en": "inaccurate",
+      "zh": "adj. 不准确的",
+      "group": "评价",
+      "memory": "in- 不＋accurate 准确：不准确。",
+      "note": "",
+      "column": 3,
+      "position": 47
+    },
+    {
+      "en": "inactive",
+      "zh": "adj. 不活跃的；不活动的",
+      "group": "行动",
+      "memory": "in- 不＋active 活跃：不活动、不活跃。",
+      "note": "",
+      "column": 3,
+      "position": 48
+    },
+    {
+      "en": "passive",
+      "zh": "adj. 被动的；消极的",
+      "group": "行动",
+      "memory": "passive 被动；active 主动，对照记。",
+      "note": "",
+      "column": 3,
+      "position": 49
+    },
+    {
+      "en": "inappropriate",
+      "zh": "adj. 不合适的",
+      "group": "评价",
+      "memory": "in- 不＋appropriate 合适：不合适。",
+      "note": "",
+      "column": 3,
+      "position": 50
+    },
+    {
+      "en": "indulge",
+      "zh": "v. 沉湎；纵容；满足欲望",
+      "group": "纵容",
+      "memory": "indulge in sweets 沉湎于甜食；也可指纵容别人。",
+      "note": "",
+      "column": 3,
+      "position": 51
+    },
+    {
+      "en": "spoil",
+      "zh": "v. 损坏；溺爱；变质",
+      "group": "纵容",
+      "memory": "spoil food 使食物坏掉；spoil a child 溺爱孩子。",
+      "note": "",
+      "column": 3,
+      "position": 52
+    },
+    {
+      "en": "infest",
+      "zh": "v. 大量滋生于；侵扰",
+      "group": "灾害",
+      "memory": "害虫大量滋生是 infest；感染疾病通常用 infect。",
+      "note": "害虫大量滋生是 infest；感染疾病通常用 infect。",
+      "column": 3,
+      "position": 53
+    },
+    {
+      "en": "plague",
+      "zh": "n. 瘟疫；祸患 v. 困扰；折磨",
+      "group": "灾害",
+      "memory": "瘟疫般反复袭扰：plague 既可指瘟疫，也可作动词困扰。",
+      "note": "",
+      "column": 3,
+      "position": 54
+    },
+    {
+      "en": "intense",
+      "zh": "adj. 强烈的；紧张的；热切的",
+      "group": "程度",
+      "memory": "intense heat 酷热；intense interest 浓厚兴趣。",
+      "note": "",
+      "column": 3,
+      "position": 55
+    },
+    {
+      "en": "interference",
+      "zh": "n. 干扰；干涉",
+      "group": "干扰",
+      "memory": "interfere 干扰→interference 干扰行为或信号干扰。",
+      "note": "",
+      "column": 4,
+      "position": 56
+    },
+    {
+      "en": "interdependence",
+      "zh": "n. 相互依赖",
+      "group": "关系",
+      "memory": "inter- 相互＋dependence 依赖：相互依赖。",
+      "note": "",
+      "column": 4,
+      "position": 57
+    },
+    {
+      "en": "interior",
+      "zh": "n. 内部 adj. 内部的",
+      "group": "位置",
+      "memory": "interior 内部，与 exterior 外部对照。",
+      "note": "",
+      "column": 4,
+      "position": 58
+    },
+    {
+      "en": "introverted",
+      "zh": "adj. 内向的",
+      "group": "性格",
+      "memory": "introverted 内向；extroverted 外向，对照记。",
+      "note": "",
+      "column": 4,
+      "position": 59
+    },
+    {
+      "en": "associate",
+      "zh": "v. 联想；联系；交往 n. 同事；伙伴",
+      "group": "关系",
+      "memory": "associate A with B：把两者联系起来；不是普通的支持或同意。",
+      "note": "associate A with B：把两者联系起来；不是普通的支持或同意。",
+      "column": 4,
+      "position": 60
+    },
+    {
+      "en": "keen",
+      "zh": "adj. 热切的；敏锐的；强烈的",
+      "group": "程度",
+      "memory": "keen on reading 热衷阅读；keen eyes 敏锐的眼睛。",
+      "note": "",
+      "column": 4,
+      "position": 61
+    },
+    {
+      "en": "display",
+      "zh": "v./n. 展示；显示",
+      "group": "信息",
+      "memory": "display goods 展示商品；屏幕也叫 display。",
+      "note": "",
+      "column": 4,
+      "position": 62
+    },
+    {
+      "en": "limb",
+      "zh": "n. 肢；臂；腿；大树枝",
+      "group": "自然",
+      "memory": "手臂和腿都是 limb；大树伸出的粗枝也像肢体。",
+      "note": "",
+      "column": 4,
+      "position": 63
+    },
+    {
+      "en": "linguistic",
+      "zh": "adj. 语言的；语言学的",
+      "group": "信息",
+      "memory": "language 语言→联想 linguistic 语言的；linguistics 语言学。",
+      "note": "",
+      "column": 4,
+      "position": 64
+    },
+    {
+      "en": "look-in",
+      "zh": "n. 参与的机会；成功的机会",
+      "group": "机会",
+      "memory": "get a look-in：得到参与或成功的机会；不要与 look in（顺便探访）混淆。",
+      "note": "get a look-in：得到参与或成功的机会；不要与 look in（顺便探访）混淆。",
+      "column": 4,
+      "position": 65
+    },
+    {
+      "en": "lopsided",
+      "zh": "adj. 不对称的；向一侧倾斜的",
+      "group": "差异",
+      "memory": "想象一边高一边低的桌子：lopsided 偏向一侧。",
+      "note": "",
+      "column": 4,
+      "position": 66
+    },
+    {
+      "en": "uneven",
+      "zh": "adj. 不平坦的；不均匀的",
+      "group": "差异",
+      "memory": "un- 不＋even 平坦或均匀：不平、不均。",
+      "note": "",
+      "column": 4,
+      "position": 67
+    },
+    {
+      "en": "malfunction",
+      "zh": "v./n. 发生故障；失灵",
+      "group": "破坏",
+      "memory": "mal- 坏＋function 功能：功能失常。",
+      "note": "",
+      "column": 4,
+      "position": 68
+    },
+    {
+      "en": "manifest",
+      "zh": "v. 显示；表明 adj. 明显的",
+      "group": "信息",
+      "memory": "manifest fear 表现出恐惧；manifest error 明显的错误。",
+      "note": "",
+      "column": 4,
+      "position": 69
+    },
+    {
+      "en": "marine",
+      "zh": "adj. 海洋的；海生的；海运的",
+      "group": "自然",
+      "memory": "marine life 海洋生物，联想海洋里的生命。",
+      "note": "",
+      "column": 4,
+      "position": 70
+    },
+    {
+      "en": "mate",
+      "zh": "n. 配偶；伙伴 v. 交配",
+      "group": "关系",
+      "memory": "classmate 同学中的 mate 是伙伴；mate 也可指配偶。",
+      "note": "",
+      "column": 4,
+      "position": 71
+    },
+    {
+      "en": "spouse",
+      "zh": "n. 配偶",
+      "group": "关系",
+      "memory": "配偶是 spouse，补齐 u；mate 也可指伙伴。",
+      "note": "配偶是 spouse，补齐 u；mate 也可指伙伴。",
+      "column": 4,
+      "position": 72
+    },
+    {
+      "en": "mercury",
+      "zh": "n. 汞；水银",
+      "group": "自然",
+      "memory": "汞拼作 mercury；首字母大写 Mercury 还可指水星。",
+      "note": "汞拼作 mercury；首字母大写 Mercury 还可指水星。",
+      "column": 4,
+      "position": 73
+    },
+    {
+      "en": "meteorological",
+      "zh": "adj. 气象的；气象学的",
+      "group": "自然",
+      "memory": "meteorology 气象学→meteorological 气象的。",
+      "note": "meteorology 气象学→meteorological 气象的。",
+      "column": 4,
+      "position": 74
+    }
+  ],
+  "order": "每列从上到下，列从左到右"
+}
